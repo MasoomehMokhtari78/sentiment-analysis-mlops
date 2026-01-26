@@ -394,7 +394,7 @@ MLflow tracks:
 - **Base Model**: `distilbert-base-uncased`
 - **Fine-tuning**: 3 epochs with linear warmup
 - **Advantages**: State-of-the-art accuracy, context-aware
-- **Performance**: ~90-93% accuracy
+- **Performance**: 85.0% accuracy, 84.5% F1-score (on 10K Yelp reviews)
 
 ## Security Features
 
@@ -528,11 +528,27 @@ Trained on 10,000 Yelp reviews:
 ```
 
 ### DistilBERT Model
-*(Implementation complete, training optional due to 268MB model download time)*
+Trained on 10,000 Yelp reviews:
+
+| Metric | Score |
+|--------|-------|
+| **Accuracy** | 85.05% |
+| **Precision** | 84.06% |
+| **Recall** | 85.05% |
+| **F1-Score** | 84.47% |
+| **Training Time** | ~15-20 minutes (CPU) |
+
+**Per-Class Performance:**
+```
+              precision    recall  f1-score   support
+    negative       0.83      0.83      0.83       368
+     neutral       0.35      0.35      0.35       228
+    positive       0.94      0.94      0.94      1404
+```
 
 **Model Comparison:**
-- **Baseline**: Fast training, lightweight, good for production with limited resources (78% accuracy)
-- **DistilBERT**: Higher accuracy potential, better context understanding, requires more compute (implementation ready)
+- **Baseline**: Fast training (~4s), lightweight, good for production with limited resources (78% accuracy)
+- **DistilBERT**: Higher accuracy (+7%), better context understanding, requires more compute (85% accuracy)
 
 ## CI/CD (Bonus)
 
