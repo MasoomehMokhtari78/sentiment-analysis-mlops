@@ -46,8 +46,8 @@ models/**/*.pt
 models/**/*.pth
 models/distilbert_model/model/model.safetensors
 !models/.gitkeep
-data/raw/*
-data/processed/*
+data/raw/*.csv
+data/processed/*.csv
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
