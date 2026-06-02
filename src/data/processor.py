@@ -208,10 +208,23 @@ class DataProcessor:
         logger.info(f"Splits complete -> Train rows: {len(train_df)} | Test rows: {len(test_df)}")
         return train_df, test_df
     
-    def save_processed_data(self, train_df: pd.DataFrame, test_df: pd.DataFrame, output_dir: str = "data/processed") -> None:
+    def save_processed_data(self, train_df: pd.DataFrame, test_df: pd.DataFrame, output_dir: str = "data/processed") -> bool:
+        """
+        Saves data if it doesn't exist to ensure ETL idempotency. 
+        Returns True if files were written, False if they already existed.
+        """
         output_path = Path(output_dir)
+        train_file = output_path / "train.csv"
+        test_file = output_path / "test.csv"
+
+        # Idempotency check: If files exist, skip writing
+        if train_file.exists() and test_file.exists():
+            logger.info(f"Idempotency Triggered: Files already exist in {output_dir}. Skipping save.")
+            return False
+        
         output_path.mkdir(parents=True, exist_ok=True)
         
-        train_df.to_csv(output_path / "train.csv", index=False)
-        test_df.to_csv(output_path / "test.csv", index=False)
+        train_df.to_csv(train_file, index=False)
+        test_df.to_csv(test_file, index=False)
         logger.info(f"Successfully exported data components directly to: {output_dir}")
+        return True

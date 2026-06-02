@@ -1,7 +1,10 @@
 import argparse
 import logging
 from prefect import task, flow
+from typing import Optional
 from src.data.processor import DataProcessor, IMDBReviewLoader, BasicTextCleaner
+
+logger = logging.getLogger(__name__)
 
 # Configure streaming logger format
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -32,11 +35,15 @@ def process_data_task(processor, raw_df):
 
 @task(name="3. Save Partitioned Splits")
 def save_data_task(processor, train_df, test_df, output_dir):
-    processor.save_processed_data(train_df=train_df, test_df=test_df, output_dir=output_dir)
+    # The processor now returns whether it actually performed a write
+    was_saved = processor.save_processed_data(train_df=train_df, test_df=test_df, output_dir=output_dir)
+    if not was_saved:
+        return "SKIPPED"
+    return "SUCCESS"
 
 
 @flow(name="IMDB-Sentiment-Analysis-Pipeline")
-def compliance_pipeline(input_path: str, output_dir: str, sample_size: int = None):
+def compliance_pipeline(input_path: str, output_dir: str, sample_size: Optional[int] = None):
     print("\n=== Initializing Prefect Orchestrated ML Flow ===")
     
     # Initialize Core SOLID Objects
