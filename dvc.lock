@@ -1,0 +1,31 @@
+schema: '2.0'
+stages:
+  ingest_and_process:
+    cmd: python -m src.data.ingest --train-path data/raw/imdb_train.csv 
+      --test-path data/raw/imdb_test.csv --remove-outliers --augment
+    deps:
+    - path: data/raw/imdb_test.csv
+      hash: md5
+      md5: 90b9367c418d3ca633671eef1d0aff5f
+      size: 32565148
+    - path: data/raw/imdb_train.csv
+      hash: md5
+      md5: 62acf68c544d136cc6675df497b6a01f
+      size: 33347168
+    - path: src/data/ingest.py
+      hash: md5
+      md5: e4ed49372acd0a9ffe3ed012746eae92
+      size: 3182
+    - path: src/data/processor.py
+      hash: md5
+      md5: 14efe01888f5332fa16b66723fff4c7e
+      size: 5609
+    outs:
+    - path: data/processed/test.csv
+      hash: md5
+      md5: 8b0f6190aefe1e5ec1c2219b939869a5
+      size: 19001722
+    - path: data/processed/train.csv
+      hash: md5
+      md5: 2695e913779838bcf34267b614f7c94e
+      size: 37568747
