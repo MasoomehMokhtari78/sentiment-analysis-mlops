@@ -25,6 +25,9 @@ def train_model(model_type="baseline", data_path=None, sample_size=None, output_
     """
     logger.info(f"Starting training for {model_type} model")
 
+    mlflow.set_tracking_uri("sqlite:///mlflow.db")
+    mlflow.set_experiment("sentiment-analysis")
+
     # [MLflow] Start an active experiment run
     with mlflow.start_run(run_name=f"{model_type}_training"):
         
@@ -109,8 +112,12 @@ def train_model(model_type="baseline", data_path=None, sample_size=None, output_
         mlflow.log_artifact(str(metrics_file))
         
         if model_type == "baseline":
-            # FIX: Use model.model (the sklearn Pipeline) instead of model.pipeline
-            mlflow.sklearn.log_model(model.model, artifact_path="model")
+            mlflow.sklearn.log_model(
+            sk_model=model.model, 
+            artifact_path="model",
+            registered_model_name="SentimentBaselineModel" 
+            )
+            logger.info("Baseline model logged and registered.")
         else:
             # Log the whole directory for DistilBERT
             mlflow.log_artifacts(str(output_path), artifact_path="model_weights")

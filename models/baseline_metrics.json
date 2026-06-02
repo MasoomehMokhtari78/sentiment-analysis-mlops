@@ -1,17 +1,17 @@
 {
-  "accuracy": 0.8104,
-  "precision": 0.8108777071198687,
-  "recall": 0.8104,
-  "f1_score": 0.8103271352722862,
+  "accuracy": 0.8894,
+  "precision": 0.8898296858729565,
+  "recall": 0.8894,
+  "f1_score": 0.8893695146634607,
   "confusion_matrix": [
     [
-      1977,
-      523
+      2182,
+      318
     ],
     [
-      425,
-      2075
+      235,
+      2265
     ]
   ],
-  "classification_report": "              precision    recall  f1-score   support\n\n           0       0.82      0.79      0.81      2500\n           1       0.80      0.83      0.81      2500\n\n    accuracy                           0.81      5000\n   macro avg       0.81      0.81      0.81      5000\nweighted avg       0.81      0.81      0.81      5000\n"
+  "classification_report": "              precision    recall  f1-score   support\n\n           0       0.90      0.87      0.89      2500\n           1       0.88      0.91      0.89      2500\n\n    accuracy                           0.89      5000\n   macro avg       0.89      0.89      0.89      5000\nweighted avg       0.89      0.89      0.89      5000\n"
 }
