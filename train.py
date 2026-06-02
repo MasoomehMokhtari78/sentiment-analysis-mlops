@@ -8,7 +8,7 @@ from config import settings
 import mlflow
 import mlflow.sklearn
 
-from src.data import YelpReviewLoader, BasicTextCleaner, DataProcessor
+from src.data import IMDBReviewLoader, BasicTextCleaner, DataProcessor
 from src.models import BaselineModel, DistilBERTModel
 
 # Configure logging

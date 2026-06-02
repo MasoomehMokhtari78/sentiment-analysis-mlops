@@ -1,7 +1,7 @@
 """Data module initialization."""
 from src.data.processor import (
     DataLoaderInterface,
-    YelpReviewLoader,
+    IMDBReviewLoader,
     TextCleanerInterface,
     BasicTextCleaner,
     DataProcessor
@@ -9,7 +9,7 @@ from src.data.processor import (
 
 __all__ = [
     'DataLoaderInterface',
-    'YelpReviewLoader',
+    'IMDBReviewLoader',
     'TextCleanerInterface',
     'BasicTextCleaner',
     'DataProcessor'
