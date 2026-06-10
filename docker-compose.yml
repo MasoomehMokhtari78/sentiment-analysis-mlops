@@ -2,12 +2,14 @@ services:
   mlflow:
     build: .
     container_name: sentiment-mlflow
+    user: "1000:1000"
     command: >
       mlflow server
       --host 0.0.0.0
       --port 5000
       --backend-store-uri sqlite:////mlflow/mlflow.db
       --default-artifact-root /mlflow/artifacts
+      --serve-artifacts
       --allowed-hosts mlflow,mlflow:5000,localhost,localhost:5000,127.0.0.1,127.0.0.1:5000,0.0.0.0
     ports:
       - "5000:5000"
@@ -32,6 +34,35 @@ services:
       - ./data:/app/data
       - ./models:/app/models
     entrypoint: ["python"]
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    container_name: sentiment-api
+    depends_on:
+      mlflow:
+        condition: service_healthy
+    ports:
+      - "${API_HOST_PORT:-8081}:8080"
+    environment:
+      MLFLOW_TRACKING_URI: http://mlflow:5000
+      MLFLOW_MODEL_NAME: SentimentBaselineModel
+      MLFLOW_MODEL_STAGE: Production
+      QUANTIZED_MODEL_DIR: /app/models/quantized
+      BATCH_MAX_SIZE: 32
+      BATCH_WAIT_MS: 25
+      GIT_PYTHON_REFRESH: quiet
+    volumes:
+      - ./models:/app/models
+      - ./reports:/app/reports
+      - mlflow_data:/mlflow
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8080/health')"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 120s
 
 volumes:
   mlflow_data:
