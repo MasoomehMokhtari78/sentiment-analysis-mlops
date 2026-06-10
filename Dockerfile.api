@@ -1,0 +1,51 @@
+# Week 3 — Optimized multi-stage image for FastAPI inference
+FROM python:3.12-slim AS builder
+
+WORKDIR /build
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY requirements-api.txt .
+RUN pip install --no-cache-dir --prefix=/install -r requirements-api.txt
+
+
+FROM python:3.12-slim AS runtime
+
+WORKDIR /app
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    MLFLOW_TRACKING_URI=sqlite:///mlflow.db \
+    MLFLOW_MODEL_NAME=SentimentBaselineModel \
+    MLFLOW_MODEL_STAGE=Production \
+    QUANTIZED_MODEL_DIR=/app/models/quantized \
+    BATCH_MAX_SIZE=32 \
+    BATCH_WAIT_MS=25
+
+# Non-root user for production
+RUN groupadd --gid 1000 appuser \
+    && useradd --uid 1000 --gid 1000 --create-home appuser
+
+COPY --from=builder /install /usr/local
+
+COPY config.py .
+COPY src/ ./src/
+COPY scripts/promote_model.py ./scripts/promote_model.py
+COPY scripts/seed_model.py ./scripts/seed_model.py
+COPY scripts/run_benchmark.py ./scripts/run_benchmark.py
+COPY scripts/docker_entrypoint_api.py ./scripts/docker_entrypoint_api.py
+COPY models/ ./models/
+
+RUN mkdir -p /app/models/quantized /app/reports/week3 \
+    && chown -R appuser:appuser /app
+
+USER appuser
+
+EXPOSE 8080
+
+HEALTHCHECK --interval=30s --timeout=5s --start-period=90s --retries=5 \
+    CMD python -c "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8080/health')"
+
+ENTRYPOINT ["python", "/app/scripts/docker_entrypoint_api.py"]

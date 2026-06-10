@@ -2,6 +2,16 @@
 
 This repository contains a robust, reproducible sentiment analysis pipeline. The project is designed with a **Data-Centric** focus, ensuring that data quality, versioning, and experiment tracking are prioritized alongside model architecture.
 
+## 📖 Documentation
+
+| Document | Description |
+|----------|-------------|
+| [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | End-to-end system flowcharts and deployment topology |
+| [docs/TECHNOLOGIES.md](docs/TECHNOLOGIES.md) | Technologies used and where they appear in the project |
+| [docs/WEEK3_INTEGRATION.md](docs/WEEK3_INTEGRATION.md) | Week 3 serving, optimization, and Docker setup |
+
+---
+
 ## 🚀 Key Features
 
 - **Automated Data Pipeline:** A custom `DataProcessor` handles outlier removal and synthetic data augmentation (applied only to training sets to prevent leakage).
