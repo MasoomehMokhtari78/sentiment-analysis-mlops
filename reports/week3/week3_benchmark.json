@@ -1,0 +1,46 @@
+{
+  "metrics": [
+    {
+      "variant": "baseline",
+      "mean_latency_ms": 5.878,
+      "p50_latency_ms": 5.522,
+      "p95_latency_ms": 7.568,
+      "throughput_rps": 33687.64,
+      "peak_memory_mb": 0.125,
+      "model_size_mb": 0.005
+    },
+    {
+      "variant": "batched",
+      "mean_latency_ms": 6.057,
+      "p50_latency_ms": 5.784,
+      "p95_latency_ms": 7.905,
+      "throughput_rps": 32689.87,
+      "peak_memory_mb": 0.0,
+      "model_size_mb": 0.005
+    }
+  ],
+  "comparison_table": [
+    {
+      "variant": "baseline",
+      "mean_latency_ms": 5.878,
+      "p50_latency_ms": 5.522,
+      "p95_latency_ms": 7.568,
+      "throughput_rps": 33687.64,
+      "peak_memory_mb": 0.125,
+      "model_size_mb": 0.005,
+      "latency_improvement_pct_vs_baseline": 0.0,
+      "memory_improvement_pct_vs_baseline": 0.0
+    },
+    {
+      "variant": "batched",
+      "mean_latency_ms": 6.057,
+      "p50_latency_ms": 5.784,
+      "p95_latency_ms": 7.905,
+      "throughput_rps": 32689.87,
+      "peak_memory_mb": 0.0,
+      "model_size_mb": 0.005,
+      "latency_improvement_pct_vs_baseline": -3.05,
+      "memory_improvement_pct_vs_baseline": 100.0
+    }
+  ]
+}

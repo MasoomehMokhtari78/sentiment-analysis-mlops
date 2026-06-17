@@ -110,12 +110,12 @@ class DistilBERTModel(BaseModel):
         # Initialize model
         self.model = DistilBertForSequenceClassification.from_pretrained(
             'distilbert-base-uncased',
-            num_labels=3  # negative, neutral, positive
+            num_labels=2  
         ).to(self.device)
         
         # Label mapping
-        self.label_map = {'negative': 0, 'neutral': 1, 'positive': 2}
-        self.reverse_label_map = {0: 'negative', 1: 'neutral', 2: 'positive'}
+        self.label_map = {0: 0, 1: 1, '0': 0, '1': 1}
+        self.reverse_label_map = {0: 0, 1: 1}
     
     def train(self, X_train: Union[List[str], pd.Series], y_train: Union[List[str], pd.Series]) -> None:
         """

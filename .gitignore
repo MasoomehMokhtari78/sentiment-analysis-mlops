@@ -44,6 +44,8 @@ myenv/
 models/**/*.bin
 models/**/*.pt
 models/**/*.pth
+models/**/*.pkl
+models/distilbert/
 models/distilbert_model/model/model.safetensors
 !models/.gitkeep
 data/raw/*.csv

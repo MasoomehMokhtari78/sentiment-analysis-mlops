@@ -1,0 +1,2 @@
+{"timestamp": "2026-06-17 18:35:10.898810", "type": "DRIFT", "severity": "WARNING", "message": "Covariate drift detected", "meta": {"method": "covariate_text_length_ks", "ks_statistic": 0.017360000000000042, "p_value": 0.001056242104280806, "drift_detected": true}}
+{"timestamp": "2026-06-17 18:35:16.303785", "type": "RETRAIN", "severity": "INFO", "message": "Model retrained successfully", "meta": {"status": "retrained", "samples": 25000}}

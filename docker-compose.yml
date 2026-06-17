@@ -2,6 +2,7 @@ services:
   mlflow:
     build: .
     container_name: sentiment-mlflow
+    user: "1000:1000"
     command: >
       mlflow server
       --host 0.0.0.0
@@ -35,7 +36,9 @@ services:
     entrypoint: ["python"]
 
   api:
-    build: .
+    build:
+      context: .
+      dockerfile: Dockerfile.api
     container_name: sentiment-api
     depends_on:
       mlflow:
