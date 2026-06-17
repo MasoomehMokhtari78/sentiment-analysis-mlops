@@ -1,6 +1,6 @@
 stages:
   ingest_and_process:
-    cmd: python -m src.data.ingest --train-path data/raw/imdb_train.csv --test-path data/raw/imdb_test.csv --remove-outliers --augment
+    cmd: python -m src.data.ingest --train-path data/raw/imdb_train.csv --test-path data/raw/imdb_test.csv
     deps:
       - src/data/ingest.py
       - src/data/processor.py
