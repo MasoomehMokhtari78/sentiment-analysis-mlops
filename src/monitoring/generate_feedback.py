@@ -1,10 +1,9 @@
 import random
-from datetime import datetime
 from src.monitoring.feedback import log_prediction
 
 
 # -------------------------
-# Lexical building blocks
+# Templates
 # -------------------------
 templates = [
     "this movie was {}",
@@ -35,6 +34,7 @@ verbs_negative = ["hated", "disliked", "regretted"]
 # Text generator
 # -------------------------
 def generate_text(label: str):
+
     template = random.choice(templates)
 
     if label == "positive":
@@ -46,7 +46,6 @@ def generate_text(label: str):
 
     text = template.format(word)
 
-    # occasionally inject verb-based variation
     if random.random() > 0.5:
         text = f"i {verb} it - {text}"
 
@@ -56,18 +55,17 @@ def generate_text(label: str):
 # -------------------------
 # Main generator
 # -------------------------
-def generate_feedback(n=200, noise=0.15):
+def generate_feedback(n=300, noise=0.15):
 
-    print(f"Generating {n} diverse feedback samples...")
+    print(f"Generating {n} feedback samples...")
 
-    for i in range(n):
+    for _ in range(n):
 
-        # true label distribution
-        label = "positive" if random.random() > 0.5 else "negative"
+        label = random.choice(["positive", "negative"])
 
         text = generate_text(label)
 
-        # simulate model prediction noise
+        # simulate noise
         if random.random() < noise:
             prediction = "negative" if label == "positive" else "positive"
         else:
@@ -82,8 +80,8 @@ def generate_feedback(n=200, noise=0.15):
             confidence=confidence
         )
 
-    print("Done generating high-quality feedback dataset.")
+    print("Feedback generation completed.")
 
 
 if __name__ == "__main__":
-    generate_feedback(300)
+    generate_feedback()

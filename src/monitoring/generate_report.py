@@ -1,16 +1,24 @@
 import json
 import os
+
+from src.monitoring.retraining import retrain_model
 from src.monitoring.drift import load_imdb_drift
 from src.monitoring.evaluation import full_evaluation
 from src.monitoring.metrics import calculate_window_accuracy
 
+# 🔥 NEW: ALERT SYSTEM
+from src.monitoring.alerts import drift_alert, metrics_alert, retrain_alert
 
+
+# =========================================================
+# MAIN REPORT GENERATOR
+# =========================================================
 def generate_report():
 
     print("Generating FINAL Week 4 Monitoring Report...")
 
     # ------------------------
-    # 1. DRIFT (REAL IMDB)
+    # 1. FULL DRIFT ANALYSIS
     # ------------------------
     drift = load_imdb_drift(
         "data/raw/imdb_train.csv",
@@ -18,20 +26,46 @@ def generate_report():
     )
 
     # ------------------------
-    # 2. DUAL EVALUATION
+    # 2. DRIFT ALERT (NEW)
+    # ------------------------
+    drift_alert(drift)
+
+    # ------------------------
+    # 3. AUTO RETRAINING TRIGGER
+    # ------------------------
+    should_retrain = (
+        drift.get("covariate_drift", {}).get("drift_detected", False)
+        or drift.get("label_drift", {}).get("drift_detected", False)
+    )
+
+    if should_retrain:
+        print("🚨 Drift detected → Triggering retraining...")
+        retrain_result = retrain_model()
+        print("🔄 Model updated after retraining")
+    else:
+        print("✅ No significant drift → skipping retraining")
+        retrain_result = {"status": "skipped"}
+
+    # ------------------------
+    # 4. RETRAIN ALERT (NEW)
+    # ------------------------
+    retrain_alert(retrain_result)
+
+    # ------------------------
+    # 5. DUAL EVALUATION
     # ------------------------
     evaluation_result = full_evaluation(
-        model=None,  
+        model=None,
         test_path="data/raw/imdb_test.csv"
     )
 
-    offline_metrics = evaluation_result["offline"]
-    online_metrics = evaluation_result["online"]
-    health_score = evaluation_result["system_health_score"]
-    system_status = evaluation_result["status"]
+    offline_metrics = evaluation_result.get("offline", {})
+    online_metrics = evaluation_result.get("online", {})
+    health_score = evaluation_result.get("system_health_score", 0.0)
+    system_status = evaluation_result.get("status", "UNKNOWN")
 
     # ------------------------
-    # 3. FEEDBACK STATS
+    # 6. FEEDBACK STATS
     # ------------------------
     feedback_path = "data/feedback.jsonl"
     feedback_count = 0
@@ -41,28 +75,74 @@ def generate_report():
             feedback_count = sum(1 for _ in f)
 
     # ------------------------
-    # 4. FINAL REPORT STRUCTURE
+    # 7. METRICS
+    # ------------------------
+    metrics_result = calculate_window_accuracy(window_size=50)
+
+    # 🔥 NEW: METRICS ALERT
+    metrics_alert(metrics_result)
+
+    # ------------------------
+    # 8. DRIFT-BASED HEALTH ADJUSTMENT
+    # ------------------------
+    drift_penalty = 0.0
+
+    covariate = drift.get("covariate_drift", {})
+    label = drift.get("label_drift", {})
+    concept = drift.get("concept_drift", {})
+    domain = drift.get("domain_shift", {})
+
+    if covariate.get("drift_detected"):
+        drift_penalty += 0.2
+
+    if label.get("drift_detected"):
+        drift_penalty += 0.2
+
+    if concept.get("drift_detected"):
+        drift_penalty += 0.3
+
+    if domain.get("drift_detected"):
+        drift_penalty += 0.3
+
+    final_health_score = max(0.0, round(health_score - drift_penalty, 3))
+
+    # ------------------------
+    # 9. STATUS LOGIC
+    # ------------------------
+    if final_health_score < 0.4:
+        system_status = "CRITICAL"
+    elif final_health_score < 0.7:
+        system_status = "WARNING"
+    else:
+        system_status = "HEALTHY"
+
+    # ------------------------
+    # 10. FINAL REPORT
     # ------------------------
     report = {
         "drift": drift,
+
+        "retraining": retrain_result,
+
+        "metrics": metrics_result,
 
         "offline_metrics": offline_metrics,
         "online_metrics": online_metrics,
 
         "feedback_samples": feedback_count,
 
-        "system_health_score": round(health_score, 3),
+        "system_health_score": final_health_score,
         "system_status": system_status,
 
         "recommendation": (
-            "Retrain model immediately"
-            if system_status == "CRITICAL"
+            "Retrain model executed or required"
+            if system_status != "HEALTHY"
             else "System stable"
         )
     }
 
     # ------------------------
-    # 5. SAVE REPORT
+    # 11. SAVE REPORT
     # ------------------------
     os.makedirs("reports/week4", exist_ok=True)
 
@@ -72,7 +152,7 @@ def generate_report():
         json.dump(report, f, indent=4)
 
     # ------------------------
-    # 6. PRINT RESULT
+    # 12. PRINT
     # ------------------------
     print("\nFINAL REPORT GENERATED:\n")
     print(json.dumps(report, indent=4))
@@ -80,5 +160,8 @@ def generate_report():
     print(f"\nSaved to: {output_path}")
 
 
+# =========================================================
+# ENTRY POINT
+# =========================================================
 if __name__ == "__main__":
     generate_report()

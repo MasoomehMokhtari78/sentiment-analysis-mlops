@@ -1,8 +1,30 @@
-from feedback import log_prediction
+from src.monitoring.feedback import log_prediction
+import os
 
-print("Testing feedback collection...")
 
-log_prediction("this movie was amazing", "positive", "positive", 0.92)
-log_prediction("very bad experience", "negative", "positive", 0.88)
+def test_log_prediction_creates_file():
 
-print("Feedback saved with labels.")
+    path = "data/feedback.jsonl"
+
+    # run function
+    log_prediction(
+        text="this movie was amazing",
+        prediction="positive",
+        true_label="positive",
+        confidence=0.92
+    )
+
+    # check file exists
+    assert os.path.exists(path)
+
+
+def test_log_prediction_content():
+
+    path = "data/feedback.jsonl"
+
+    with open(path, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    last_line = lines[-1]
+
+    assert "this movie was amazing" in last_line
