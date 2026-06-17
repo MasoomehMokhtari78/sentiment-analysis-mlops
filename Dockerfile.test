@@ -1,0 +1,28 @@
+# CI / local test runner — data, training, and API layers in one image
+FROM python:3.12-slim
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY requirements-docker.txt requirements-api.txt requirements-test.txt ./
+RUN pip install --no-cache-dir \
+    -r requirements-docker.txt \
+    -r requirements-api.txt \
+    -r requirements-test.txt
+
+COPY config.py .
+COPY train.py .
+COPY update_model.py .
+COPY src/ ./src/
+COPY tests/ ./tests/
+COPY scripts/ ./scripts/
+
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONDONTWRITEBYTECODE=1 \
+    MLFLOW_TRACKING_URI=sqlite:///mlflow.db
+
+CMD ["pytest", "tests/", "-v", "--cov=src", "--cov-report=term-missing", "--cov-report=html"]

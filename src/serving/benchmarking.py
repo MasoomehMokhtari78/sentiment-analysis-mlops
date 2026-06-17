@@ -8,7 +8,7 @@ import statistics
 import time
 from dataclasses import asdict, dataclass
 from pathlib import Path
-from typing import Callable, Sequence
+from typing import Sequence
 
 import psutil
 

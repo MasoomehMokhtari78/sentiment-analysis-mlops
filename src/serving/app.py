@@ -10,7 +10,7 @@ from fastapi import FastAPI, HTTPException, Query
 from src.serving.batching import AsyncBatchProcessor
 from src.serving.config import serving_settings
 from src.serving.labels import normalize_sentiment_label
-from src.serving.model_loader import build_model_uri, load_sklearn_from_registry
+from src.serving.model_loader import load_sklearn_from_registry
 from src.serving.optimization.quantization import export_and_quantize_sklearn
 from src.serving.predictors import (
     BatchedSklearnPredictor,
