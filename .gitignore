@@ -63,6 +63,9 @@ mlartifacts/
 
 # Logs
 logs/
+!logs/
+logs/*
+!logs/.gitkeep
 *.log
 
 # Testing

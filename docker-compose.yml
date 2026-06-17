@@ -47,16 +47,26 @@ services:
       - "${API_HOST_PORT:-8081}:8080"
     environment:
       MLFLOW_TRACKING_URI: http://mlflow:5000
+      MLFLOW_EXPERIMENT_NAME: sentiment-analysis
       MLFLOW_MODEL_NAME: SentimentBaselineModel
       MLFLOW_MODEL_STAGE: Production
+      MODEL_PATH: /app/models/baseline_model.pkl
+      REFERENCE_DATA_PATH: /app/data/processed/train.csv
+      MONITORING_LOG_DIR: /app/logs
       QUANTIZED_MODEL_DIR: /app/models/quantized
       BATCH_MAX_SIZE: 32
       BATCH_WAIT_MS: 25
       GIT_PYTHON_REFRESH: quiet
     volumes:
+      - ./data:/app/data:ro
       - ./models:/app/models
       - ./reports:/app/reports
+      - ./logs:/app/logs
       - mlflow_data:/mlflow
+    command: >
+      uvicorn main:app
+      --host 0.0.0.0
+      --port 8080
     healthcheck:
       test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8080/health')"]
       interval: 30s
