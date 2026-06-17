@@ -1,0 +1,49 @@
+{
+    "drift": {
+        "covariate_drift": {
+            "method": "covariate_text_length_ks",
+            "ks_statistic": 0.017360000000000042,
+            "p_value": 0.001056242104280806,
+            "drift_detected": true
+        },
+        "label_drift": {
+            "method": "label_distribution_shift",
+            "distribution_shift": 0.0,
+            "drift_detected": false
+        },
+        "concept_drift": {
+            "method": "concept_confidence_mismatch",
+            "drift_detected": false,
+            "note": "model_not_loaded"
+        },
+        "domain_shift": {
+            "method": "domain_shift_detection",
+            "drift_detected": false
+        }
+    },
+    "retraining": {
+        "status": "retrained",
+        "samples": 25000
+    },
+    "metrics": {
+        "accuracy": 0.88,
+        "total_samples": 50,
+        "correct": 44,
+        "window_size": 50
+    },
+    "offline_metrics": {
+        "accuracy": 1.0,
+        "total_samples": 25000,
+        "type": "offline_imdb"
+    },
+    "online_metrics": {
+        "accuracy": 0.88,
+        "total_samples": 50,
+        "type": "online_feedback",
+        "window_size": 50
+    },
+    "feedback_samples": 1104,
+    "system_health_score": 0.8,
+    "system_status": "HEALTHY",
+    "recommendation": "System stable"
+}

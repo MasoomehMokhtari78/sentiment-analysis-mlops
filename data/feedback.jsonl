@@ -1,0 +1,1104 @@
+{"timestamp": "2026-06-16T10:24:38.762503", "text": "this movie was amazing", "prediction": "positive", "confidence": 0.92}
+{"timestamp": "2026-06-16T10:24:38.770265", "text": "very bad experience", "prediction": "negative", "confidence": 0.88}
+{"timestamp": "2026-06-16T10:28:05.748368", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.92}
+{"timestamp": "2026-06-16T10:28:05.748368", "text": "very bad experience", "prediction": "negative", "true_label": "positive", "confidence": 0.88}
+{"timestamp": "2026-06-16T12:15:41.261177", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:15:41.261177", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:15:41.261177", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:15:41.261177", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:15:41.261177", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:15:41.261177", "text": "i hated this film", "prediction": "positive", "true_label": "negative", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:15:41.275401", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:15:41.275401", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:15:41.275401", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:15:41.275401", "text": "i loved this movie", "prediction": "positive", "true_label": "positive", "confidence": 0.79}
+{"timestamp": "2026-06-16T12:15:41.275401", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.93}
+{"timestamp": "2026-06-16T12:15:41.277141", "text": "i loved this movie", "prediction": "positive", "true_label": "positive", "confidence": 0.71}
+{"timestamp": "2026-06-16T12:15:41.277141", "text": "waste of time", "prediction": "negative", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:15:41.277141", "text": "terrible acting", "prediction": "negative", "true_label": "negative", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:15:41.277141", "text": "i hated this film", "prediction": "positive", "true_label": "negative", "confidence": 0.93}
+{"timestamp": "2026-06-16T12:15:41.277141", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:15:41.277141", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:15:41.277141", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:15:41.280138", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:15:41.280138", "text": "absolutely fantastic film", "prediction": "negative", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:15:41.280138", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:15:41.280138", "text": "i loved this movie", "prediction": "positive", "true_label": "positive", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:15:41.280138", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:15:41.280138", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:15:41.280138", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:15:41.280138", "text": "great acting and story", "prediction": "positive", "true_label": "positive", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:15:41.280138", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:15:41.280138", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.78}
+{"timestamp": "2026-06-16T12:15:41.284546", "text": "i loved this movie", "prediction": "negative", "true_label": "positive", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:15:41.284546", "text": "absolutely fantastic film", "prediction": "negative", "true_label": "positive", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:15:41.284546", "text": "waste of time", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:15:41.284546", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:15:41.284546", "text": "waste of time", "prediction": "negative", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:15:41.284546", "text": "i hated this film", "prediction": "positive", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:15:41.284546", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "i loved this movie", "prediction": "negative", "true_label": "positive", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "boring and slow", "prediction": "positive", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "terrible acting", "prediction": "negative", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "waste of time", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "waste of time", "prediction": "positive", "true_label": "negative", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "one of the best films ever", "prediction": "negative", "true_label": "positive", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "terrible acting", "prediction": "negative", "true_label": "negative", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "i loved this movie", "prediction": "positive", "true_label": "positive", "confidence": 0.75}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "one of the best films ever", "prediction": "negative", "true_label": "positive", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:15:41.286554", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.75}
+{"timestamp": "2026-06-16T12:15:41.292891", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:15:41.292891", "text": "i loved this movie", "prediction": "positive", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:15:41.295013", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:15:41.295523", "text": "i hated this film", "prediction": "positive", "true_label": "negative", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:15:41.295523", "text": "waste of time", "prediction": "positive", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:15:41.296070", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:15:41.296624", "text": "boring and slow", "prediction": "positive", "true_label": "negative", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:15:41.296624", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:15:41.297210", "text": "waste of time", "prediction": "negative", "true_label": "negative", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:15:41.297817", "text": "this movie was amazing", "prediction": "negative", "true_label": "positive", "confidence": 0.65}
+{"timestamp": "2026-06-16T12:15:41.297817", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:15:41.298397", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:15:41.298941", "text": "terrible acting", "prediction": "positive", "true_label": "negative", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:15:41.298941", "text": "terrible acting", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:15:41.299540", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:15:41.300135", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:15:41.300135", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:15:41.301051", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:15:41.301558", "text": "one of the best films ever", "prediction": "negative", "true_label": "positive", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:15:41.301558", "text": "terrible acting", "prediction": "negative", "true_label": "negative", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:15:41.302116", "text": "terrible acting", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:15:41.302116", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.75}
+{"timestamp": "2026-06-16T12:15:41.302659", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:15:41.302659", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:15:41.303265", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:15:41.303574", "text": "absolutely fantastic film", "prediction": "negative", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:15:41.303574", "text": "great acting and story", "prediction": "negative", "true_label": "positive", "confidence": 0.88}
+{"timestamp": "2026-06-16T12:15:41.304197", "text": "absolutely fantastic film", "prediction": "negative", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:15:41.304197", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:15:41.304732", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.79}
+{"timestamp": "2026-06-16T12:15:41.304732", "text": "this movie was amazing", "prediction": "negative", "true_label": "positive", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:15:41.304732", "text": "terrible acting", "prediction": "negative", "true_label": "negative", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:15:41.304732", "text": "waste of time", "prediction": "negative", "true_label": "negative", "confidence": 0.9}
+{"timestamp": "2026-06-16T12:15:41.304732", "text": "waste of time", "prediction": "negative", "true_label": "negative", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:15:41.304732", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:15:41.304732", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:15:41.307473", "text": "absolutely fantastic film", "prediction": "negative", "true_label": "positive", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:15:41.307473", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:15:41.307473", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:15:41.307473", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:15:41.307473", "text": "waste of time", "prediction": "negative", "true_label": "negative", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:15:41.308981", "text": "one of the best films ever", "prediction": "negative", "true_label": "positive", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:15:41.308981", "text": "terrible acting", "prediction": "negative", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:15:41.308981", "text": "one of the best films ever", "prediction": "negative", "true_label": "positive", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:15:41.308981", "text": "terrible acting", "prediction": "negative", "true_label": "negative", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:15:41.308981", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:15:41.308981", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:15:41.308981", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:15:41.308981", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:15:41.308981", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:15:41.312547", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:15:41.312547", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:15:41.312547", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:15:41.312547", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:15:41.312547", "text": "waste of time", "prediction": "negative", "true_label": "negative", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:15:41.312547", "text": "i loved this movie", "prediction": "negative", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:15:41.312547", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:15:41.312547", "text": "i loved this movie", "prediction": "positive", "true_label": "positive", "confidence": 0.75}
+{"timestamp": "2026-06-16T12:15:41.312547", "text": "i loved this movie", "prediction": "negative", "true_label": "positive", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:15:41.312547", "text": "very bad movie", "prediction": "positive", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:15:41.316463", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:15:41.316463", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:15:41.316463", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:15:41.316463", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:15:41.316463", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:15:41.316463", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:15:41.318471", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:15:41.318471", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:15:41.318471", "text": "great acting and story", "prediction": "positive", "true_label": "positive", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:15:41.318471", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:15:41.318471", "text": "one of the best films ever", "prediction": "negative", "true_label": "positive", "confidence": 0.71}
+{"timestamp": "2026-06-16T12:15:41.318471", "text": "great acting and story", "prediction": "negative", "true_label": "positive", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:15:41.318471", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:15:41.320478", "text": "waste of time", "prediction": "negative", "true_label": "negative", "confidence": 0.65}
+{"timestamp": "2026-06-16T12:15:41.320478", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:15:41.320478", "text": "very bad movie", "prediction": "positive", "true_label": "negative", "confidence": 0.95}
+{"timestamp": "2026-06-16T12:15:41.320478", "text": "great acting and story", "prediction": "positive", "true_label": "positive", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:15:41.320478", "text": "i loved this movie", "prediction": "positive", "true_label": "positive", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:15:41.320478", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:15:41.320478", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.75}
+{"timestamp": "2026-06-16T12:15:41.323061", "text": "one of the best films ever", "prediction": "negative", "true_label": "positive", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:15:41.323061", "text": "terrible acting", "prediction": "negative", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:15:41.323061", "text": "waste of time", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:15:41.323061", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:15:41.323061", "text": "this movie was amazing", "prediction": "negative", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:15:41.323061", "text": "great acting and story", "prediction": "positive", "true_label": "positive", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:15:41.324801", "text": "i loved this movie", "prediction": "positive", "true_label": "positive", "confidence": 0.88}
+{"timestamp": "2026-06-16T12:15:41.324801", "text": "boring and slow", "prediction": "positive", "true_label": "negative", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:15:41.324801", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:15:41.324801", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:15:41.324801", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:15:41.327113", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:15:41.327113", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:15:41.327113", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.88}
+{"timestamp": "2026-06-16T12:15:41.327113", "text": "terrible acting", "prediction": "positive", "true_label": "negative", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:15:41.327113", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:15:41.327113", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:15:41.327113", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:15:41.329122", "text": "i loved this movie", "prediction": "negative", "true_label": "positive", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:15:41.329122", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:15:41.329122", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.93}
+{"timestamp": "2026-06-16T12:15:41.329122", "text": "great acting and story", "prediction": "positive", "true_label": "positive", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:15:41.329122", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:15:41.329122", "text": "one of the best films ever", "prediction": "negative", "true_label": "positive", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:15:41.329122", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:15:41.331130", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:15:41.331130", "text": "terrible acting", "prediction": "negative", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:15:41.331130", "text": "great acting and story", "prediction": "negative", "true_label": "positive", "confidence": 0.78}
+{"timestamp": "2026-06-16T12:15:41.331130", "text": "great acting and story", "prediction": "positive", "true_label": "positive", "confidence": 0.99}
+{"timestamp": "2026-06-16T12:15:41.331130", "text": "i loved this movie", "prediction": "positive", "true_label": "positive", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:15:41.331130", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.95}
+{"timestamp": "2026-06-16T12:15:41.331130", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.99}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "boring and slow", "prediction": "positive", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.99}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "waste of time", "prediction": "negative", "true_label": "negative", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "great acting and story", "prediction": "negative", "true_label": "positive", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "i loved this movie", "prediction": "negative", "true_label": "positive", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.78}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "terrible acting", "prediction": "negative", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "waste of time", "prediction": "positive", "true_label": "negative", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "absolutely fantastic film", "prediction": "negative", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "i loved this movie", "prediction": "positive", "true_label": "positive", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "i loved this movie", "prediction": "positive", "true_label": "positive", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "great acting and story", "prediction": "negative", "true_label": "positive", "confidence": 0.93}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "boring and slow", "prediction": "negative", "true_label": "negative", "confidence": 0.75}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "one of the best films ever", "prediction": "positive", "true_label": "positive", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "great acting and story", "prediction": "positive", "true_label": "positive", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "i loved this movie", "prediction": "positive", "true_label": "positive", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:15:41.332879", "text": "terrible acting", "prediction": "negative", "true_label": "negative", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:15:41.341087", "text": "i loved this movie", "prediction": "positive", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:15:41.341087", "text": "terrible acting", "prediction": "negative", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:15:41.341087", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:15:41.341087", "text": "very bad movie", "prediction": "negative", "true_label": "negative", "confidence": 0.78}
+{"timestamp": "2026-06-16T12:15:41.341087", "text": "great acting and story", "prediction": "negative", "true_label": "positive", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:15:41.341087", "text": "absolutely fantastic film", "prediction": "positive", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:15:41.341087", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:15:41.341087", "text": "boring and slow", "prediction": "positive", "true_label": "negative", "confidence": 0.9}
+{"timestamp": "2026-06-16T12:15:41.341087", "text": "i loved this movie", "prediction": "positive", "true_label": "positive", "confidence": 0.71}
+{"timestamp": "2026-06-16T12:15:41.341087", "text": "great acting and story", "prediction": "positive", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:15:41.341087", "text": "i hated this film", "prediction": "negative", "true_label": "negative", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:20:01.762308", "text": "a bad movie overall", "prediction": "positive", "true_label": "negative", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:20:01.762308", "text": "it was a bad experience", "prediction": "negative", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:20:01.762308", "text": "a excellent movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:20:01.762308", "text": "one of the most great films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:20:01.762308", "text": "a wonderful movie overall", "prediction": "negative", "true_label": "positive", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:20:01.762308", "text": "i loved it - it was a amazing experience", "prediction": "positive", "true_label": "positive", "confidence": 0.78}
+{"timestamp": "2026-06-16T12:20:01.767026", "text": "acting was disappointing and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:20:01.767026", "text": "one of the most mediocre films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:20:01.767026", "text": "i enjoyed it - i outstanding this film", "prediction": "positive", "true_label": "positive", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:20:01.769092", "text": "i regretted it - i mediocre this film", "prediction": "positive", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:20:01.769092", "text": "a great movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:20:01.770420", "text": "it was a poor experience", "prediction": "negative", "true_label": "negative", "confidence": 0.55}
+{"timestamp": "2026-06-16T12:20:01.770420", "text": "absolutely mediocre performance", "prediction": "positive", "true_label": "negative", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:20:01.770420", "text": "i admired it - i wonderful this film", "prediction": "negative", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:20:01.770420", "text": "i liked it - absolutely fantastic performance", "prediction": "positive", "true_label": "positive", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:20:01.772724", "text": "i admired it - a wonderful movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:20:01.772724", "text": "i liked it - it was a amazing experience", "prediction": "positive", "true_label": "positive", "confidence": 0.9}
+{"timestamp": "2026-06-16T12:20:01.772724", "text": "the story was awful", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:20:01.772724", "text": "i admired it - it was a fantastic experience", "prediction": "positive", "true_label": "positive", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:20:01.774736", "text": "i liked it - a brilliant movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:20:01.774736", "text": "it was a weak experience", "prediction": "negative", "true_label": "negative", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:20:01.774736", "text": "the story was mediocre", "prediction": "negative", "true_label": "negative", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:20:01.776034", "text": "absolutely outstanding performance", "prediction": "positive", "true_label": "positive", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:20:01.776034", "text": "this movie was brilliant", "prediction": "positive", "true_label": "positive", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:20:01.776034", "text": "i admired it - absolutely outstanding performance", "prediction": "positive", "true_label": "positive", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:20:01.776034", "text": "i hated it - it was a weak experience", "prediction": "negative", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:20:01.776034", "text": "i hated it - the story was terrible", "prediction": "positive", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:20:01.776034", "text": "i regretted it - this movie was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:20:01.776034", "text": "i hated it - acting was boring and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.78}
+{"timestamp": "2026-06-16T12:20:01.776034", "text": "i disliked it - acting was weak and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.56}
+{"timestamp": "2026-06-16T12:20:01.779476", "text": "absolutely disappointing performance", "prediction": "positive", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:20:01.779476", "text": "absolutely great performance", "prediction": "positive", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:20:01.779476", "text": "i admired it - acting was amazing and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:20:01.779476", "text": "i disliked it - one of the most terrible films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:20:01.779476", "text": "i disliked it - acting was weak and engaging", "prediction": "positive", "true_label": "negative", "confidence": 0.71}
+{"timestamp": "2026-06-16T12:20:01.779476", "text": "this movie was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:20:01.779476", "text": "this movie was disappointing", "prediction": "negative", "true_label": "negative", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:20:01.779476", "text": "the story was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.55}
+{"timestamp": "2026-06-16T12:20:01.779476", "text": "the story was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:20:01.779476", "text": "i liked it - the story was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:20:01.782855", "text": "i liked it - acting was fantastic and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:20:01.782855", "text": "this movie was great", "prediction": "positive", "true_label": "positive", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:20:01.782855", "text": "a terrible movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:20:01.782855", "text": "this movie was fantastic", "prediction": "positive", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:20:01.782855", "text": "it was a amazing experience", "prediction": "positive", "true_label": "positive", "confidence": 0.59}
+{"timestamp": "2026-06-16T12:20:01.782855", "text": "i liked it - a impressive movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:20:01.782855", "text": "i enjoyed it - i fantastic this film", "prediction": "positive", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:20:01.782855", "text": "the story was impressive", "prediction": "positive", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:20:01.782855", "text": "it was a outstanding experience", "prediction": "positive", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:20:01.782855", "text": "absolutely weak performance", "prediction": "negative", "true_label": "negative", "confidence": 0.79}
+{"timestamp": "2026-06-16T12:20:01.782855", "text": "this movie was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:20:01.787541", "text": "i regretted it - a mediocre movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:20:01.787541", "text": "a boring movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:20:01.787541", "text": "i regretted it - acting was bad and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.6}
+{"timestamp": "2026-06-16T12:20:01.787541", "text": "absolutely bad performance", "prediction": "negative", "true_label": "negative", "confidence": 0.79}
+{"timestamp": "2026-06-16T12:20:01.787541", "text": "i enjoyed it - a excellent movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.78}
+{"timestamp": "2026-06-16T12:20:01.787541", "text": "i liked it - one of the most impressive films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.95}
+{"timestamp": "2026-06-16T12:20:01.787541", "text": "i hated it - a weak movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:20:01.789549", "text": "i enjoyed it - it was a amazing experience", "prediction": "positive", "true_label": "positive", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:20:01.789549", "text": "i loved it - i wonderful this film", "prediction": "positive", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:20:01.789549", "text": "i regretted it - i mediocre this film", "prediction": "negative", "true_label": "negative", "confidence": 0.71}
+{"timestamp": "2026-06-16T12:20:01.789549", "text": "i regretted it - the story was boring", "prediction": "positive", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:20:01.791301", "text": "i loved it - absolutely brilliant performance", "prediction": "positive", "true_label": "positive", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:20:01.791301", "text": "the story was boring", "prediction": "negative", "true_label": "negative", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:20:01.791301", "text": "i disliked it - acting was awful and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:20:01.791301", "text": "the story was wonderful", "prediction": "positive", "true_label": "positive", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:20:01.791301", "text": "i disliked it - acting was poor and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:20:01.791301", "text": "it was a weak experience", "prediction": "negative", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:20:01.793310", "text": "i disliked it - the story was terrible", "prediction": "positive", "true_label": "negative", "confidence": 0.99}
+{"timestamp": "2026-06-16T12:20:01.793310", "text": "i disliked it - a poor movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:20:01.793310", "text": "i admired it - the story was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:20:01.793310", "text": "the story was brilliant", "prediction": "positive", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:20:01.793310", "text": "the story was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:20:01.793310", "text": "i regretted it - one of the most awful films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:20:01.793310", "text": "i regretted it - this movie was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.95}
+{"timestamp": "2026-06-16T12:20:01.795319", "text": "a excellent movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:20:01.795319", "text": "it was a amazing experience", "prediction": "positive", "true_label": "positive", "confidence": 0.56}
+{"timestamp": "2026-06-16T12:20:01.795319", "text": "i regretted it - one of the most boring films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:20:01.795319", "text": "this movie was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:20:01.795319", "text": "i liked it - it was a fantastic experience", "prediction": "positive", "true_label": "positive", "confidence": 0.56}
+{"timestamp": "2026-06-16T12:20:01.795319", "text": "i disliked it - the story was terrible", "prediction": "negative", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:20:01.795319", "text": "i loved it - acting was amazing and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:20:01.797328", "text": "a terrible movie overall", "prediction": "positive", "true_label": "negative", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:20:01.797328", "text": "i loved it - the story was impressive", "prediction": "positive", "true_label": "positive", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:20:01.797328", "text": "a weak movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:20:01.797328", "text": "it was a wonderful experience", "prediction": "negative", "true_label": "positive", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:20:01.797328", "text": "i admired it - acting was outstanding and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:20:01.797328", "text": "it was a outstanding experience", "prediction": "negative", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:20:01.797328", "text": "a disappointing movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:20:01.799337", "text": "i liked it - i great this film", "prediction": "positive", "true_label": "positive", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:20:01.799337", "text": "this movie was mediocre", "prediction": "negative", "true_label": "negative", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:20:01.799337", "text": "this movie was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:20:01.799337", "text": "the story was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:20:01.799337", "text": "absolutely mediocre performance", "prediction": "negative", "true_label": "negative", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:20:01.799337", "text": "i awful this film", "prediction": "positive", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:20:01.799337", "text": "i wonderful this film", "prediction": "positive", "true_label": "positive", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:20:01.799337", "text": "i admired it - it was a excellent experience", "prediction": "positive", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:20:01.799337", "text": "one of the most disappointing films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:20:01.801911", "text": "the story was brilliant", "prediction": "negative", "true_label": "positive", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:20:01.801911", "text": "i hated it - one of the most poor films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:20:01.801911", "text": "i regretted it - the story was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:20:01.801911", "text": "i disliked it - acting was disappointing and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:20:01.801911", "text": "it was a disappointing experience", "prediction": "negative", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:20:01.801911", "text": "acting was awful and engaging", "prediction": "positive", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:20:01.801911", "text": "i regretted it - acting was bad and engaging", "prediction": "positive", "true_label": "negative", "confidence": 0.59}
+{"timestamp": "2026-06-16T12:20:01.804082", "text": "one of the most weak films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:20:01.804082", "text": "i enjoyed it - this movie was brilliant", "prediction": "positive", "true_label": "positive", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:20:01.805249", "text": "i liked it - absolutely great performance", "prediction": "positive", "true_label": "positive", "confidence": 0.65}
+{"timestamp": "2026-06-16T12:20:01.805249", "text": "i disliked it - acting was mediocre and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.95}
+{"timestamp": "2026-06-16T12:20:01.805249", "text": "acting was terrible and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:20:01.805249", "text": "i hated it - absolutely boring performance", "prediction": "negative", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:20:01.805249", "text": "absolutely great performance", "prediction": "positive", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:20:01.805249", "text": "one of the most boring films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:20:01.807262", "text": "i hated it - absolutely weak performance", "prediction": "negative", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:20:01.807262", "text": "the story was fantastic", "prediction": "positive", "true_label": "positive", "confidence": 0.88}
+{"timestamp": "2026-06-16T12:20:01.807262", "text": "it was a disappointing experience", "prediction": "negative", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:20:01.807262", "text": "i enjoyed it - one of the most impressive films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:20:01.807262", "text": "i loved it - it was a excellent experience", "prediction": "positive", "true_label": "positive", "confidence": 0.9}
+{"timestamp": "2026-06-16T12:20:01.809273", "text": "the story was bad", "prediction": "negative", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:20:01.809273", "text": "i regretted it - absolutely awful performance", "prediction": "negative", "true_label": "negative", "confidence": 0.75}
+{"timestamp": "2026-06-16T12:20:01.809273", "text": "a boring movie overall", "prediction": "positive", "true_label": "negative", "confidence": 0.78}
+{"timestamp": "2026-06-16T12:20:01.810725", "text": "i admired it - one of the most outstanding films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:20:01.811117", "text": "acting was weak and engaging", "prediction": "positive", "true_label": "negative", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:20:01.811117", "text": "it was a terrible experience", "prediction": "positive", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:20:01.811117", "text": "i hated it - the story was disappointing", "prediction": "negative", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:20:01.811117", "text": "i regretted it - acting was weak and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:20:01.811117", "text": "i loved it - this movie was impressive", "prediction": "positive", "true_label": "positive", "confidence": 0.9}
+{"timestamp": "2026-06-16T12:20:01.811117", "text": "a bad movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.9}
+{"timestamp": "2026-06-16T12:20:01.811117", "text": "i disliked it - i disappointing this film", "prediction": "negative", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:20:01.811117", "text": "i disliked it - the story was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:20:01.811117", "text": "it was a fantastic experience", "prediction": "positive", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:20:01.811117", "text": "one of the most boring films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:20:01.815320", "text": "i admired it - i impressive this film", "prediction": "positive", "true_label": "positive", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:20:01.815320", "text": "i admired it - one of the most fantastic films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:20:01.815320", "text": "i liked it - i great this film", "prediction": "positive", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:20:01.815320", "text": "a poor movie overall", "prediction": "positive", "true_label": "negative", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:20:01.817334", "text": "i disliked it - this movie was disappointing", "prediction": "positive", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:20:01.817698", "text": "i loved it - absolutely outstanding performance", "prediction": "negative", "true_label": "positive", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "one of the most boring films i have seen", "prediction": "positive", "true_label": "negative", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "one of the most excellent films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.88}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "i liked it - one of the most impressive films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "the story was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "the story was brilliant", "prediction": "positive", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "i regretted it - a terrible movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "one of the most boring films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.55}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "i disliked it - it was a mediocre experience", "prediction": "positive", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "i regretted it - it was a mediocre experience", "prediction": "negative", "true_label": "negative", "confidence": 0.93}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "i disliked it - acting was terrible and engaging", "prediction": "positive", "true_label": "negative", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "absolutely poor performance", "prediction": "negative", "true_label": "negative", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "i hated it - absolutely terrible performance", "prediction": "negative", "true_label": "negative", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "the story was impressive", "prediction": "negative", "true_label": "positive", "confidence": 0.65}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "i hated it - it was a weak experience", "prediction": "negative", "true_label": "negative", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:20:01.818079", "text": "acting was poor and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:20:01.823575", "text": "i disliked it - it was a mediocre experience", "prediction": "negative", "true_label": "negative", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:20:01.823575", "text": "this movie was brilliant", "prediction": "negative", "true_label": "positive", "confidence": 0.9}
+{"timestamp": "2026-06-16T12:20:01.824603", "text": "absolutely amazing performance", "prediction": "positive", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:20:01.824976", "text": "this movie was disappointing", "prediction": "negative", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:20:01.824976", "text": "acting was weak and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:20:01.826048", "text": "this movie was brilliant", "prediction": "positive", "true_label": "positive", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:20:01.826048", "text": "absolutely impressive performance", "prediction": "positive", "true_label": "positive", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:20:01.826048", "text": "the story was boring", "prediction": "positive", "true_label": "negative", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:20:01.826048", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:20:01.826048", "text": "i boring this film", "prediction": "negative", "true_label": "negative", "confidence": 0.9}
+{"timestamp": "2026-06-16T12:20:01.826048", "text": "absolutely bad performance", "prediction": "negative", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:20:01.826048", "text": "one of the most awful films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.56}
+{"timestamp": "2026-06-16T12:20:01.826048", "text": "i outstanding this film", "prediction": "positive", "true_label": "positive", "confidence": 0.65}
+{"timestamp": "2026-06-16T12:20:01.826048", "text": "the story was great", "prediction": "positive", "true_label": "positive", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:20:01.826048", "text": "i regretted it - one of the most bad films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:20:01.826048", "text": "absolutely terrible performance", "prediction": "negative", "true_label": "negative", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:20:01.826048", "text": "a outstanding movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:20:01.826048", "text": "absolutely excellent performance", "prediction": "positive", "true_label": "positive", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:20:01.826048", "text": "acting was bad and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:20:01.831560", "text": "i regretted it - one of the most disappointing films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:20:01.831560", "text": "acting was amazing and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:20:01.831560", "text": "this movie was awful", "prediction": "negative", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:20:01.831560", "text": "i enjoyed it - acting was fantastic and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.78}
+{"timestamp": "2026-06-16T12:20:01.831560", "text": "i regretted it - acting was awful and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:20:01.831560", "text": "it was a mediocre experience", "prediction": "negative", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:20:01.833807", "text": "the story was boring", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:20:01.833807", "text": "this movie was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:20:01.833807", "text": "i disliked it - the story was awful", "prediction": "negative", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:20:01.833807", "text": "i disliked it - the story was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.99}
+{"timestamp": "2026-06-16T12:20:01.833807", "text": "i liked it - i outstanding this film", "prediction": "positive", "true_label": "positive", "confidence": 0.56}
+{"timestamp": "2026-06-16T12:20:01.833807", "text": "i disliked it - this movie was mediocre", "prediction": "negative", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:20:01.835821", "text": "one of the most great films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:20:01.835821", "text": "acting was excellent and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.71}
+{"timestamp": "2026-06-16T12:20:01.835821", "text": "a great movie overall", "prediction": "negative", "true_label": "positive", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:20:01.835821", "text": "i amazing this film", "prediction": "negative", "true_label": "positive", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:20:01.835821", "text": "i disliked it - it was a mediocre experience", "prediction": "negative", "true_label": "negative", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:20:01.835821", "text": "i regretted it - this movie was mediocre", "prediction": "negative", "true_label": "negative", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:20:01.835821", "text": "i regretted it - a weak movie overall", "prediction": "positive", "true_label": "negative", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:20:01.837832", "text": "i enjoyed it - a outstanding movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:20:01.837832", "text": "i disliked it - i bad this film", "prediction": "negative", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:20:01.838812", "text": "i loved it - the story was brilliant", "prediction": "positive", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:20:01.838812", "text": "i great this film", "prediction": "positive", "true_label": "positive", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:20:01.839574", "text": "i hated it - absolutely bad performance", "prediction": "negative", "true_label": "negative", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:20:01.839574", "text": "i liked it - the story was wonderful", "prediction": "positive", "true_label": "positive", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:20:01.839574", "text": "one of the most mediocre films i have seen", "prediction": "positive", "true_label": "negative", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:20:01.839574", "text": "i liked it - absolutely outstanding performance", "prediction": "positive", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:20:01.839574", "text": "i hated it - this movie was terrible", "prediction": "negative", "true_label": "negative", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:20:01.841584", "text": "i disliked it - one of the most weak films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:20:01.841584", "text": "i enjoyed it - i brilliant this film", "prediction": "negative", "true_label": "positive", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:20:01.841584", "text": "a wonderful movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:20:01.841584", "text": "this movie was awful", "prediction": "negative", "true_label": "negative", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:20:01.841584", "text": "it was a wonderful experience", "prediction": "positive", "true_label": "positive", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:20:01.841584", "text": "acting was poor and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:20:01.841584", "text": "acting was terrible and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.99}
+{"timestamp": "2026-06-16T12:20:01.843594", "text": "i regretted it - i boring this film", "prediction": "negative", "true_label": "negative", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:20:01.843594", "text": "a brilliant movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.59}
+{"timestamp": "2026-06-16T12:20:01.843594", "text": "the story was great", "prediction": "positive", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:20:01.843594", "text": "i enjoyed it - acting was outstanding and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:20:01.843594", "text": "i disliked it - acting was terrible and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.71}
+{"timestamp": "2026-06-16T12:20:01.843594", "text": "i admired it - this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:20:01.845603", "text": "acting was disappointing and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.71}
+{"timestamp": "2026-06-16T12:20:01.845967", "text": "i enjoyed it - absolutely amazing performance", "prediction": "positive", "true_label": "positive", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:20:01.846272", "text": "the story was great", "prediction": "positive", "true_label": "positive", "confidence": 0.78}
+{"timestamp": "2026-06-16T12:20:01.846272", "text": "acting was disappointing and engaging", "prediction": "positive", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:20:01.846272", "text": "i terrible this film", "prediction": "negative", "true_label": "negative", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:20:01.847622", "text": "the story was wonderful", "prediction": "positive", "true_label": "positive", "confidence": 0.79}
+{"timestamp": "2026-06-16T12:20:01.848136", "text": "i enjoyed it - one of the most fantastic films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.95}
+{"timestamp": "2026-06-16T12:20:01.848136", "text": "i brilliant this film", "prediction": "positive", "true_label": "positive", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:20:01.848136", "text": "acting was terrible and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:20:01.848136", "text": "a fantastic movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.6}
+{"timestamp": "2026-06-16T12:20:01.848136", "text": "this movie was disappointing", "prediction": "positive", "true_label": "negative", "confidence": 0.6}
+{"timestamp": "2026-06-16T12:20:01.848136", "text": "it was a boring experience", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:20:01.850148", "text": "i hated it - acting was poor and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.88}
+{"timestamp": "2026-06-16T12:20:01.850148", "text": "i loved it - the story was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.6}
+{"timestamp": "2026-06-16T12:20:01.850148", "text": "i enjoyed it - this movie was fantastic", "prediction": "positive", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:20:01.850148", "text": "i admired it - one of the most amazing films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:20:01.852158", "text": "one of the most bad films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:20:01.852158", "text": "the story was disappointing", "prediction": "negative", "true_label": "negative", "confidence": 0.93}
+{"timestamp": "2026-06-16T12:20:01.852711", "text": "i regretted it - acting was awful and engaging", "prediction": "positive", "true_label": "negative", "confidence": 0.9}
+{"timestamp": "2026-06-16T12:20:01.852711", "text": "i hated it - i terrible this film", "prediction": "negative", "true_label": "negative", "confidence": 0.99}
+{"timestamp": "2026-06-16T12:20:01.852711", "text": "i great this film", "prediction": "positive", "true_label": "positive", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:20:01.852711", "text": "absolutely amazing performance", "prediction": "positive", "true_label": "positive", "confidence": 0.59}
+{"timestamp": "2026-06-16T12:20:01.852711", "text": "i regretted it - absolutely disappointing performance", "prediction": "negative", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:20:01.852711", "text": "i disliked it - one of the most mediocre films i have seen", "prediction": "positive", "true_label": "negative", "confidence": 0.56}
+{"timestamp": "2026-06-16T12:20:01.852711", "text": "i loved it - i wonderful this film", "prediction": "positive", "true_label": "positive", "confidence": 0.56}
+{"timestamp": "2026-06-16T12:20:01.852711", "text": "i disliked it - i poor this film", "prediction": "positive", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:20:01.855848", "text": "acting was outstanding and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:20:01.855848", "text": "absolutely excellent performance", "prediction": "positive", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:20:01.855848", "text": "it was a outstanding experience", "prediction": "positive", "true_label": "positive", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:20:01.855848", "text": "absolutely outstanding performance", "prediction": "positive", "true_label": "positive", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:20:01.857527", "text": "i loved it - one of the most outstanding films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:20:01.857527", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:20:01.858537", "text": "i enjoyed it - i amazing this film", "prediction": "positive", "true_label": "positive", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:20:01.858537", "text": "i admired it - it was a impressive experience", "prediction": "negative", "true_label": "positive", "confidence": 0.56}
+{"timestamp": "2026-06-16T12:20:01.859676", "text": "absolutely outstanding performance", "prediction": "negative", "true_label": "positive", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:20:01.859676", "text": "i liked it - acting was amazing and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:20:01.859676", "text": "i regretted it - acting was terrible and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:20:01.859676", "text": "it was a weak experience", "prediction": "negative", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:20:01.861234", "text": "i weak this film", "prediction": "negative", "true_label": "negative", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:20:01.861234", "text": "i hated it - acting was poor and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:20:01.861234", "text": "this movie was awful", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:20:01.862767", "text": "i regretted it - acting was mediocre and engaging", "prediction": "positive", "true_label": "negative", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:20:01.862767", "text": "it was a amazing experience", "prediction": "negative", "true_label": "positive", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:20:01.862767", "text": "acting was awful and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:20:01.864276", "text": "i regretted it - this movie was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:20:01.864276", "text": "this movie was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:20:01.864276", "text": "absolutely great performance", "prediction": "positive", "true_label": "positive", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:20:01.864276", "text": "it was a wonderful experience", "prediction": "positive", "true_label": "positive", "confidence": 0.95}
+{"timestamp": "2026-06-16T12:20:01.866260", "text": "i weak this film", "prediction": "negative", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:20:01.867005", "text": "i liked it - acting was great and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:20:01.867513", "text": "i regretted it - this movie was mediocre", "prediction": "negative", "true_label": "negative", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:20:01.867513", "text": "one of the most excellent films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:20:01.867513", "text": "a fantastic movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:20:01.867513", "text": "this movie was fantastic", "prediction": "positive", "true_label": "positive", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:20:01.867513", "text": "a terrible movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:20:01.867513", "text": "i admired it - the story was brilliant", "prediction": "positive", "true_label": "positive", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:20:01.869522", "text": "i regretted it - the story was boring", "prediction": "negative", "true_label": "negative", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:20:01.869522", "text": "i admired it - it was a wonderful experience", "prediction": "positive", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:20:01.869522", "text": "i regretted it - i disappointing this film", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:20:01.869522", "text": "i hated it - a bad movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:20:01.869522", "text": "absolutely bad performance", "prediction": "negative", "true_label": "negative", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:20:01.869522", "text": "i regretted it - one of the most disappointing films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:20:01.871530", "text": "i hated it - i awful this film", "prediction": "positive", "true_label": "negative", "confidence": 0.56}
+{"timestamp": "2026-06-16T12:20:01.871530", "text": "i regretted it - the story was terrible", "prediction": "negative", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:20:01.871530", "text": "acting was outstanding and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:20:01.872540", "text": "i poor this film", "prediction": "negative", "true_label": "negative", "confidence": 0.55}
+{"timestamp": "2026-06-16T12:20:01.873222", "text": "absolutely bad performance", "prediction": "negative", "true_label": "negative", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:20:01.873222", "text": "i enjoyed it - one of the most excellent films i have seen", "prediction": "negative", "true_label": "positive", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:20:01.873222", "text": "i regretted it - this movie was boring", "prediction": "negative", "true_label": "negative", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:20:01.873222", "text": "i admired it - the story was fantastic", "prediction": "positive", "true_label": "positive", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:20:01.873222", "text": "i disliked it - it was a bad experience", "prediction": "negative", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:20:01.873222", "text": "i liked it - i impressive this film", "prediction": "positive", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:20:01.875545", "text": "the story was impressive", "prediction": "negative", "true_label": "positive", "confidence": 0.6}
+{"timestamp": "2026-06-16T12:20:01.875545", "text": "it was a awful experience", "prediction": "negative", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:20:01.875545", "text": "a excellent movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.56}
+{"timestamp": "2026-06-16T12:20:01.875545", "text": "i enjoyed it - this movie was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:20:01.875545", "text": "a outstanding movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:20:01.875545", "text": "it was a weak experience", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:20:01.877555", "text": "one of the most boring films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:20:01.877555", "text": "i admired it - absolutely great performance", "prediction": "positive", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:20:01.877555", "text": "absolutely great performance", "prediction": "positive", "true_label": "positive", "confidence": 0.88}
+{"timestamp": "2026-06-16T12:20:01.877555", "text": "a great movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:20:01.877555", "text": "i admired it - absolutely amazing performance", "prediction": "positive", "true_label": "positive", "confidence": 0.79}
+{"timestamp": "2026-06-16T12:20:01.877555", "text": "a bad movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:20:01.879564", "text": "i awful this film", "prediction": "negative", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:20:01.879564", "text": "a impressive movie overall", "prediction": "negative", "true_label": "positive", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:20:01.879564", "text": "i enjoyed it - acting was fantastic and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.55}
+{"timestamp": "2026-06-16T12:21:44.307582", "text": "i regretted it - the story was boring", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "this movie was terrible", "prediction": "positive", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "this movie was bad", "prediction": "negative", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i weak this film", "prediction": "negative", "true_label": "negative", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i enjoyed it - the story was great", "prediction": "positive", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i regretted it - this movie was disappointing", "prediction": "negative", "true_label": "negative", "confidence": 0.99}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i loved it - one of the most impressive films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "absolutely boring performance", "prediction": "negative", "true_label": "negative", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "this movie was great", "prediction": "negative", "true_label": "positive", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i liked it - this movie was excellent", "prediction": "positive", "true_label": "positive", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i hated it - this movie was bad", "prediction": "negative", "true_label": "negative", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i regretted it - it was a weak experience", "prediction": "negative", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i disliked it - one of the most weak films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.71}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i hated it - it was a disappointing experience", "prediction": "negative", "true_label": "negative", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i liked it - acting was outstanding and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.9}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i disliked it - i awful this film", "prediction": "negative", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "a boring movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.79}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "it was a outstanding experience", "prediction": "negative", "true_label": "positive", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "this movie was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i liked it - acting was brilliant and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "acting was wonderful and engaging", "prediction": "negative", "true_label": "positive", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "one of the most great films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i liked it - absolutely brilliant performance", "prediction": "positive", "true_label": "positive", "confidence": 0.75}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "this movie was awful", "prediction": "negative", "true_label": "negative", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "absolutely great performance", "prediction": "negative", "true_label": "positive", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "a brilliant movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "absolutely wonderful performance", "prediction": "positive", "true_label": "positive", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i hated it - it was a awful experience", "prediction": "negative", "true_label": "negative", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i hated it - this movie was boring", "prediction": "positive", "true_label": "negative", "confidence": 0.59}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i enjoyed it - the story was fantastic", "prediction": "positive", "true_label": "positive", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:21:44.311380", "text": "i liked it - absolutely outstanding performance", "prediction": "positive", "true_label": "positive", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:21:44.319139", "text": "i disliked it - i boring this film", "prediction": "positive", "true_label": "negative", "confidence": 0.95}
+{"timestamp": "2026-06-16T12:21:44.319139", "text": "i hated it - one of the most weak films i have seen", "prediction": "positive", "true_label": "negative", "confidence": 0.93}
+{"timestamp": "2026-06-16T12:21:44.319139", "text": "a great movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:21:44.319139", "text": "i loved it - a brilliant movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:21:44.319139", "text": "i enjoyed it - this movie was great", "prediction": "positive", "true_label": "positive", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:21:44.319139", "text": "it was a weak experience", "prediction": "positive", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:21:44.319139", "text": "i admired it - the story was impressive", "prediction": "negative", "true_label": "positive", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:21:44.319139", "text": "i enjoyed it - one of the most brilliant films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:21:44.319139", "text": "i disliked it - this movie was awful", "prediction": "negative", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:21:44.319139", "text": "the story was fantastic", "prediction": "positive", "true_label": "positive", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:21:44.321146", "text": "i regretted it - one of the most terrible films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.95}
+{"timestamp": "2026-06-16T12:21:44.321146", "text": "this movie was terrible", "prediction": "negative", "true_label": "negative", "confidence": 0.88}
+{"timestamp": "2026-06-16T12:21:44.321146", "text": "i loved it - i excellent this film", "prediction": "negative", "true_label": "positive", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:21:44.321146", "text": "i loved it - it was a amazing experience", "prediction": "positive", "true_label": "positive", "confidence": 0.75}
+{"timestamp": "2026-06-16T12:21:44.321146", "text": "i regretted it - i boring this film", "prediction": "negative", "true_label": "negative", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:21:44.321146", "text": "the story was mediocre", "prediction": "negative", "true_label": "negative", "confidence": 0.75}
+{"timestamp": "2026-06-16T12:21:44.321146", "text": "i hated it - a poor movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:21:44.321146", "text": "i admired it - this movie was excellent", "prediction": "negative", "true_label": "positive", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:21:44.323152", "text": "i disliked it - i terrible this film", "prediction": "negative", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:21:44.323152", "text": "it was a impressive experience", "prediction": "negative", "true_label": "positive", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:21:44.323152", "text": "i admired it - absolutely wonderful performance", "prediction": "negative", "true_label": "positive", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:21:44.323152", "text": "i admired it - a fantastic movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:21:44.323152", "text": "absolutely wonderful performance", "prediction": "positive", "true_label": "positive", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:21:44.323152", "text": "i liked it - absolutely excellent performance", "prediction": "positive", "true_label": "positive", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:21:44.323152", "text": "one of the most boring films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:21:44.323152", "text": "acting was fantastic and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:21:44.323152", "text": "the story was boring", "prediction": "negative", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:21:44.323152", "text": "this movie was boring", "prediction": "negative", "true_label": "negative", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:21:44.325158", "text": "i enjoyed it - a wonderful movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:21:44.325158", "text": "i regretted it - absolutely weak performance", "prediction": "negative", "true_label": "negative", "confidence": 0.79}
+{"timestamp": "2026-06-16T12:21:44.325158", "text": "a brilliant movie overall", "prediction": "negative", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:21:44.325158", "text": "one of the most great films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.56}
+{"timestamp": "2026-06-16T12:21:44.325158", "text": "this movie was excellent", "prediction": "positive", "true_label": "positive", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:21:44.325158", "text": "i regretted it - one of the most poor films i have seen", "prediction": "positive", "true_label": "negative", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:21:44.325158", "text": "this movie was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.65}
+{"timestamp": "2026-06-16T12:21:44.325158", "text": "a bad movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.59}
+{"timestamp": "2026-06-16T12:21:44.325158", "text": "i disliked it - i terrible this film", "prediction": "negative", "true_label": "negative", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:21:44.327165", "text": "i liked it - this movie was fantastic", "prediction": "positive", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:21:44.327165", "text": "i disliked it - absolutely mediocre performance", "prediction": "negative", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:21:44.327165", "text": "i admired it - absolutely excellent performance", "prediction": "negative", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:21:44.327165", "text": "i enjoyed it - it was a brilliant experience", "prediction": "negative", "true_label": "positive", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:21:44.327165", "text": "i loved it - i brilliant this film", "prediction": "positive", "true_label": "positive", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:21:44.327165", "text": "i regretted it - i weak this film", "prediction": "negative", "true_label": "negative", "confidence": 0.6}
+{"timestamp": "2026-06-16T12:21:44.327165", "text": "i loved it - one of the most excellent films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:21:44.327165", "text": "i great this film", "prediction": "positive", "true_label": "positive", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:21:44.327165", "text": "i disliked it - acting was mediocre and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:21:44.329170", "text": "a fantastic movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:21:44.329170", "text": "one of the most outstanding films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:21:44.329170", "text": "i admired it - absolutely amazing performance", "prediction": "positive", "true_label": "positive", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:21:44.329170", "text": "i hated it - this movie was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.99}
+{"timestamp": "2026-06-16T12:21:44.329170", "text": "acting was boring and engaging", "prediction": "positive", "true_label": "negative", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:21:44.329170", "text": "i enjoyed it - this movie was wonderful", "prediction": "positive", "true_label": "positive", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:21:44.329170", "text": "it was a disappointing experience", "prediction": "negative", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:21:44.329170", "text": "i weak this film", "prediction": "positive", "true_label": "negative", "confidence": 0.59}
+{"timestamp": "2026-06-16T12:21:44.329170", "text": "i liked it - a impressive movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:21:44.331177", "text": "i hated it - acting was disappointing and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:21:44.331177", "text": "one of the most impressive films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.75}
+{"timestamp": "2026-06-16T12:21:44.331177", "text": "acting was terrible and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:21:44.331177", "text": "the story was disappointing", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:21:44.331177", "text": "i loved it - it was a fantastic experience", "prediction": "positive", "true_label": "positive", "confidence": 0.6}
+{"timestamp": "2026-06-16T12:21:44.331177", "text": "i admired it - the story was great", "prediction": "positive", "true_label": "positive", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:21:44.331177", "text": "i loved it - a brilliant movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.75}
+{"timestamp": "2026-06-16T12:21:44.331177", "text": "i admired it - acting was excellent and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:21:44.331177", "text": "i liked it - i outstanding this film", "prediction": "negative", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:21:44.333183", "text": "i regretted it - it was a disappointing experience", "prediction": "negative", "true_label": "negative", "confidence": 0.93}
+{"timestamp": "2026-06-16T12:21:44.333183", "text": "this movie was boring", "prediction": "negative", "true_label": "negative", "confidence": 0.79}
+{"timestamp": "2026-06-16T12:21:44.333183", "text": "i regretted it - i awful this film", "prediction": "negative", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:21:44.333183", "text": "i hated it - a boring movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.79}
+{"timestamp": "2026-06-16T12:21:44.333183", "text": "i loved it - a great movie overall", "prediction": "negative", "true_label": "positive", "confidence": 0.59}
+{"timestamp": "2026-06-16T12:21:44.333183", "text": "it was a poor experience", "prediction": "positive", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:21:44.333183", "text": "i disliked it - one of the most bad films i have seen", "prediction": "positive", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:21:44.333183", "text": "i hated it - one of the most bad films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.65}
+{"timestamp": "2026-06-16T12:21:44.333183", "text": "i disliked it - one of the most mediocre films i have seen", "prediction": "positive", "true_label": "negative", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:21:44.333183", "text": "acting was impressive and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:21:44.335189", "text": "it was a weak experience", "prediction": "negative", "true_label": "negative", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:21:44.335189", "text": "i enjoyed it - this movie was great", "prediction": "negative", "true_label": "positive", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:21:44.335189", "text": "i disliked it - i boring this film", "prediction": "negative", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:21:44.335189", "text": "one of the most brilliant films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:21:44.335189", "text": "i enjoyed it - it was a fantastic experience", "prediction": "positive", "true_label": "positive", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:21:44.335189", "text": "i regretted it - the story was bad", "prediction": "negative", "true_label": "negative", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:21:44.335189", "text": "it was a amazing experience", "prediction": "positive", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:21:44.335189", "text": "i regretted it - one of the most bad films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:21:44.337196", "text": "i mediocre this film", "prediction": "positive", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:21:44.337196", "text": "a great movie overall", "prediction": "negative", "true_label": "positive", "confidence": 0.78}
+{"timestamp": "2026-06-16T12:21:44.337196", "text": "it was a amazing experience", "prediction": "positive", "true_label": "positive", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:21:44.337196", "text": "i hated it - a boring movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:21:44.337196", "text": "the story was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:21:44.337196", "text": "a fantastic movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:21:44.337196", "text": "a brilliant movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:21:44.337196", "text": "this movie was fantastic", "prediction": "positive", "true_label": "positive", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:21:44.337196", "text": "i regretted it - absolutely boring performance", "prediction": "negative", "true_label": "negative", "confidence": 0.94}
+{"timestamp": "2026-06-16T12:21:44.337196", "text": "i hated it - this movie was awful", "prediction": "negative", "true_label": "negative", "confidence": 0.88}
+{"timestamp": "2026-06-16T12:21:44.339202", "text": "i liked it - this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:21:44.339202", "text": "i loved it - a outstanding movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:21:44.339202", "text": "i hated it - this movie was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.95}
+{"timestamp": "2026-06-16T12:21:44.339202", "text": "the story was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:21:44.339202", "text": "i boring this film", "prediction": "negative", "true_label": "negative", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:21:44.339202", "text": "it was a weak experience", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:21:44.339202", "text": "one of the most disappointing films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.65}
+{"timestamp": "2026-06-16T12:21:44.339202", "text": "acting was poor and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:21:44.339202", "text": "i disliked it - one of the most mediocre films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.71}
+{"timestamp": "2026-06-16T12:21:44.341208", "text": "acting was boring and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:21:44.341208", "text": "the story was weak", "prediction": "positive", "true_label": "negative", "confidence": 0.93}
+{"timestamp": "2026-06-16T12:21:44.341208", "text": "this movie was great", "prediction": "positive", "true_label": "positive", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:21:44.341208", "text": "i terrible this film", "prediction": "negative", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:21:44.341208", "text": "it was a awful experience", "prediction": "negative", "true_label": "negative", "confidence": 0.65}
+{"timestamp": "2026-06-16T12:21:44.341208", "text": "i disliked it - absolutely boring performance", "prediction": "negative", "true_label": "negative", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:21:44.341208", "text": "the story was mediocre", "prediction": "negative", "true_label": "negative", "confidence": 0.93}
+{"timestamp": "2026-06-16T12:21:44.341208", "text": "i mediocre this film", "prediction": "negative", "true_label": "negative", "confidence": 0.75}
+{"timestamp": "2026-06-16T12:21:44.341208", "text": "i hated it - it was a disappointing experience", "prediction": "negative", "true_label": "negative", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:21:44.342956", "text": "i disliked it - absolutely terrible performance", "prediction": "positive", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:21:44.342956", "text": "i liked it - i excellent this film", "prediction": "negative", "true_label": "positive", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:21:44.342956", "text": "i amazing this film", "prediction": "positive", "true_label": "positive", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:21:44.342956", "text": "i hated it - this movie was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:21:44.342956", "text": "i loved it - it was a amazing experience", "prediction": "positive", "true_label": "positive", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:21:44.342956", "text": "i disliked it - absolutely bad performance", "prediction": "positive", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:21:44.342956", "text": "acting was awful and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.99}
+{"timestamp": "2026-06-16T12:21:44.342956", "text": "i admired it - it was a fantastic experience", "prediction": "positive", "true_label": "positive", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:21:44.344962", "text": "i liked it - absolutely wonderful performance", "prediction": "positive", "true_label": "positive", "confidence": 0.78}
+{"timestamp": "2026-06-16T12:21:44.344962", "text": "i regretted it - acting was terrible and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:21:44.344962", "text": "i fantastic this film", "prediction": "positive", "true_label": "positive", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:21:44.344962", "text": "a awful movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:21:44.344962", "text": "i regretted it - this movie was disappointing", "prediction": "negative", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:21:44.344962", "text": "i terrible this film", "prediction": "negative", "true_label": "negative", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:21:44.344962", "text": "i terrible this film", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:21:44.344962", "text": "this movie was brilliant", "prediction": "positive", "true_label": "positive", "confidence": 0.95}
+{"timestamp": "2026-06-16T12:21:44.344962", "text": "i regretted it - this movie was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:21:44.346969", "text": "i hated it - one of the most awful films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:21:44.346969", "text": "i mediocre this film", "prediction": "negative", "true_label": "negative", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:21:44.346969", "text": "i admired it - absolutely outstanding performance", "prediction": "positive", "true_label": "positive", "confidence": 0.79}
+{"timestamp": "2026-06-16T12:21:44.346969", "text": "i enjoyed it - it was a outstanding experience", "prediction": "negative", "true_label": "positive", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:21:44.346969", "text": "i regretted it - acting was terrible and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:21:44.346969", "text": "the story was awful", "prediction": "negative", "true_label": "negative", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:21:44.346969", "text": "i disliked it - acting was poor and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:21:44.346969", "text": "i enjoyed it - it was a great experience", "prediction": "positive", "true_label": "positive", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:21:44.346969", "text": "i regretted it - the story was terrible", "prediction": "negative", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:21:44.346969", "text": "i enjoyed it - one of the most excellent films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:21:44.348975", "text": "i loved it - one of the most brilliant films i have seen", "prediction": "negative", "true_label": "positive", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:21:44.348975", "text": "it was a poor experience", "prediction": "negative", "true_label": "negative", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:21:44.348975", "text": "i boring this film", "prediction": "positive", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:21:44.348975", "text": "one of the most weak films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:21:44.348975", "text": "i awful this film", "prediction": "negative", "true_label": "negative", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:21:44.348975", "text": "i hated it - the story was terrible", "prediction": "negative", "true_label": "negative", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:21:44.348975", "text": "acting was boring and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-16T12:21:44.348975", "text": "i hated it - i terrible this film", "prediction": "negative", "true_label": "negative", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:21:44.348975", "text": "i disliked it - this movie was disappointing", "prediction": "negative", "true_label": "negative", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:21:44.350981", "text": "absolutely fantastic performance", "prediction": "positive", "true_label": "positive", "confidence": 0.65}
+{"timestamp": "2026-06-16T12:21:44.350981", "text": "the story was wonderful", "prediction": "negative", "true_label": "positive", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:21:44.350981", "text": "it was a bad experience", "prediction": "positive", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:21:44.350981", "text": "this movie was mediocre", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:21:44.350981", "text": "absolutely poor performance", "prediction": "negative", "true_label": "negative", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:21:44.350981", "text": "i disliked it - one of the most terrible films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:21:44.350981", "text": "it was a brilliant experience", "prediction": "positive", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-16T12:21:44.350981", "text": "i loved it - a wonderful movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:21:44.350981", "text": "i admired it - the story was wonderful", "prediction": "positive", "true_label": "positive", "confidence": 0.95}
+{"timestamp": "2026-06-16T12:21:44.352987", "text": "i hated it - it was a awful experience", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:21:44.352987", "text": "absolutely boring performance", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:21:44.352987", "text": "the story was wonderful", "prediction": "negative", "true_label": "positive", "confidence": 0.79}
+{"timestamp": "2026-06-16T12:21:44.352987", "text": "absolutely outstanding performance", "prediction": "positive", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:21:44.352987", "text": "i enjoyed it - i amazing this film", "prediction": "positive", "true_label": "positive", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:21:44.352987", "text": "i liked it - this movie was impressive", "prediction": "positive", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:21:44.352987", "text": "acting was impressive and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.56}
+{"timestamp": "2026-06-16T12:21:44.352987", "text": "i hated it - a weak movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-16T12:21:44.352987", "text": "i admired it - acting was brilliant and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:21:44.354993", "text": "i disliked it - this movie was awful", "prediction": "positive", "true_label": "negative", "confidence": 0.78}
+{"timestamp": "2026-06-16T12:21:44.354993", "text": "it was a fantastic experience", "prediction": "positive", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:21:44.354993", "text": "this movie was great", "prediction": "positive", "true_label": "positive", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:21:44.354993", "text": "i disappointing this film", "prediction": "negative", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-16T12:21:44.354993", "text": "i admired it - this movie was wonderful", "prediction": "positive", "true_label": "positive", "confidence": 0.56}
+{"timestamp": "2026-06-16T12:21:44.354993", "text": "this movie was mediocre", "prediction": "positive", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:21:44.354993", "text": "absolutely fantastic performance", "prediction": "positive", "true_label": "positive", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:21:44.354993", "text": "the story was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:21:44.354993", "text": "i disliked it - i poor this film", "prediction": "positive", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:21:44.354993", "text": "this movie was mediocre", "prediction": "negative", "true_label": "negative", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:21:44.357000", "text": "i hated it - absolutely disappointing performance", "prediction": "negative", "true_label": "negative", "confidence": 0.6}
+{"timestamp": "2026-06-16T12:21:44.357000", "text": "the story was mediocre", "prediction": "positive", "true_label": "negative", "confidence": 0.9}
+{"timestamp": "2026-06-16T12:21:44.357000", "text": "this movie was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.93}
+{"timestamp": "2026-06-16T12:21:44.357000", "text": "this movie was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.56}
+{"timestamp": "2026-06-16T12:21:44.357000", "text": "absolutely weak performance", "prediction": "negative", "true_label": "negative", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:21:44.357000", "text": "one of the most bad films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.59}
+{"timestamp": "2026-06-16T12:21:44.357000", "text": "i wonderful this film", "prediction": "positive", "true_label": "positive", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:21:44.357000", "text": "one of the most wonderful films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:21:44.358748", "text": "i enjoyed it - absolutely outstanding performance", "prediction": "positive", "true_label": "positive", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:21:44.358748", "text": "i hated it - absolutely weak performance", "prediction": "negative", "true_label": "negative", "confidence": 0.79}
+{"timestamp": "2026-06-16T12:21:44.358748", "text": "this movie was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:21:44.358748", "text": "a brilliant movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:21:44.358748", "text": "acting was weak and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.59}
+{"timestamp": "2026-06-16T12:21:44.358748", "text": "acting was disappointing and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.88}
+{"timestamp": "2026-06-16T12:21:44.358748", "text": "it was a fantastic experience", "prediction": "negative", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:21:44.358748", "text": "the story was wonderful", "prediction": "negative", "true_label": "positive", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:21:44.358748", "text": "this movie was fantastic", "prediction": "positive", "true_label": "positive", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:21:44.360754", "text": "i hated it - this movie was disappointing", "prediction": "negative", "true_label": "negative", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:21:44.360754", "text": "absolutely disappointing performance", "prediction": "positive", "true_label": "negative", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:21:44.360754", "text": "i disliked it - one of the most disappointing films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:21:44.360754", "text": "absolutely amazing performance", "prediction": "positive", "true_label": "positive", "confidence": 0.65}
+{"timestamp": "2026-06-16T12:21:44.360754", "text": "i regretted it - one of the most poor films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.79}
+{"timestamp": "2026-06-16T12:21:44.360754", "text": "it was a outstanding experience", "prediction": "positive", "true_label": "positive", "confidence": 0.71}
+{"timestamp": "2026-06-16T12:21:44.360754", "text": "one of the most boring films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:21:44.360754", "text": "absolutely amazing performance", "prediction": "positive", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:21:44.360754", "text": "i hated it - one of the most boring films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:21:44.362761", "text": "i loved it - acting was great and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:21:44.362761", "text": "i regretted it - acting was weak and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-16T12:21:44.362761", "text": "i regretted it - it was a terrible experience", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:21:44.362761", "text": "a amazing movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:21:44.362761", "text": "i liked it - acting was outstanding and engaging", "prediction": "negative", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-16T12:21:44.362761", "text": "acting was poor and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.83}
+{"timestamp": "2026-06-16T12:21:44.362761", "text": "i enjoyed it - i great this film", "prediction": "positive", "true_label": "positive", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:21:44.362761", "text": "one of the most brilliant films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.59}
+{"timestamp": "2026-06-16T12:21:44.362761", "text": "i admired it - the story was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.95}
+{"timestamp": "2026-06-16T12:21:44.362761", "text": "i liked it - the story was wonderful", "prediction": "positive", "true_label": "positive", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:21:44.364766", "text": "i liked it - absolutely brilliant performance", "prediction": "positive", "true_label": "positive", "confidence": 0.81}
+{"timestamp": "2026-06-16T12:21:44.364766", "text": "i mediocre this film", "prediction": "negative", "true_label": "negative", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:21:44.364766", "text": "i wonderful this film", "prediction": "positive", "true_label": "positive", "confidence": 0.71}
+{"timestamp": "2026-06-16T12:21:44.364766", "text": "the story was impressive", "prediction": "negative", "true_label": "positive", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:21:44.364766", "text": "i regretted it - this movie was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.97}
+{"timestamp": "2026-06-16T12:21:44.364766", "text": "i enjoyed it - a wonderful movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:21:44.364766", "text": "i regretted it - a awful movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:21:44.364766", "text": "it was a boring experience", "prediction": "negative", "true_label": "negative", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:21:44.364766", "text": "absolutely impressive performance", "prediction": "positive", "true_label": "positive", "confidence": 0.71}
+{"timestamp": "2026-06-16T12:21:44.366772", "text": "i admired it - absolutely outstanding performance", "prediction": "positive", "true_label": "positive", "confidence": 0.6}
+{"timestamp": "2026-06-16T12:21:44.366772", "text": "one of the most weak films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.87}
+{"timestamp": "2026-06-16T12:21:44.366772", "text": "i regretted it - one of the most bad films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:21:44.366772", "text": "the story was wonderful", "prediction": "positive", "true_label": "positive", "confidence": 0.74}
+{"timestamp": "2026-06-16T12:21:44.366772", "text": "i disliked it - absolutely terrible performance", "prediction": "negative", "true_label": "negative", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:21:44.366772", "text": "the story was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:21:44.366772", "text": "the story was terrible", "prediction": "negative", "true_label": "negative", "confidence": 0.78}
+{"timestamp": "2026-06-16T12:21:44.366772", "text": "it was a fantastic experience", "prediction": "positive", "true_label": "positive", "confidence": 0.9}
+{"timestamp": "2026-06-16T12:21:44.366772", "text": "this movie was bad", "prediction": "negative", "true_label": "negative", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:21:44.368779", "text": "this movie was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:21:44.368779", "text": "acting was awful and engaging", "prediction": "positive", "true_label": "negative", "confidence": 0.96}
+{"timestamp": "2026-06-16T12:21:44.368779", "text": "i weak this film", "prediction": "negative", "true_label": "negative", "confidence": 0.76}
+{"timestamp": "2026-06-16T12:21:44.368779", "text": "i admired it - this movie was great", "prediction": "positive", "true_label": "positive", "confidence": 0.92}
+{"timestamp": "2026-06-16T12:21:44.368779", "text": "i terrible this film", "prediction": "negative", "true_label": "negative", "confidence": 0.71}
+{"timestamp": "2026-06-16T12:21:44.368779", "text": "i enjoyed it - one of the most great films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:21:44.368779", "text": "one of the most impressive films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.98}
+{"timestamp": "2026-06-16T12:21:44.368779", "text": "i terrible this film", "prediction": "negative", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-16T12:21:44.368779", "text": "one of the most amazing films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.88}
+{"timestamp": "2026-06-16T12:21:44.370786", "text": "it was a outstanding experience", "prediction": "positive", "true_label": "positive", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:21:44.370786", "text": "i regretted it - the story was awful", "prediction": "negative", "true_label": "negative", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:21:44.370786", "text": "i regretted it - i poor this film", "prediction": "positive", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:21:44.370786", "text": "i disliked it - this movie was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:21:44.370786", "text": "one of the most bad films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.86}
+{"timestamp": "2026-06-16T12:21:44.370786", "text": "it was a boring experience", "prediction": "positive", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-16T12:21:44.370786", "text": "one of the most great films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:21:44.370786", "text": "acting was outstanding and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:21:44.370786", "text": "it was a terrible experience", "prediction": "negative", "true_label": "negative", "confidence": 0.95}
+{"timestamp": "2026-06-16T12:21:44.370786", "text": "acting was poor and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-16T12:21:44.370786", "text": "i admired it - a impressive movie overall", "prediction": "negative", "true_label": "positive", "confidence": 0.63}
+{"timestamp": "2026-06-16T12:21:44.370786", "text": "acting was excellent and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.66}
+{"timestamp": "2026-06-16T12:21:44.370786", "text": "i enjoyed it - absolutely impressive performance", "prediction": "positive", "true_label": "positive", "confidence": 0.57}
+{"timestamp": "2026-06-16T12:21:44.374390", "text": "a disappointing movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-16T12:21:44.374390", "text": "i loved it - the story was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.6}
+{"timestamp": "2026-06-16T12:21:44.374390", "text": "i loved it - i brilliant this film", "prediction": "positive", "true_label": "positive", "confidence": 0.58}
+{"timestamp": "2026-06-16T12:21:44.374390", "text": "i liked it - the story was brilliant", "prediction": "positive", "true_label": "positive", "confidence": 0.59}
+{"timestamp": "2026-06-16T12:21:44.374390", "text": "i disliked it - absolutely weak performance", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:21:44.374390", "text": "i loved it - absolutely great performance", "prediction": "positive", "true_label": "positive", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:21:44.374390", "text": "i disliked it - this movie was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.77}
+{"timestamp": "2026-06-16T12:21:44.374390", "text": "i hated it - absolutely mediocre performance", "prediction": "negative", "true_label": "negative", "confidence": 0.75}
+{"timestamp": "2026-06-16T12:21:44.376397", "text": "i disliked it - it was a awful experience", "prediction": "negative", "true_label": "negative", "confidence": 0.99}
+{"timestamp": "2026-06-16T12:21:44.376397", "text": "this movie was bad", "prediction": "negative", "true_label": "negative", "confidence": 0.6}
+{"timestamp": "2026-06-16T12:21:44.376397", "text": "acting was brilliant and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:21:44.376397", "text": "acting was disappointing and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-16T12:21:44.376397", "text": "i admired it - absolutely wonderful performance", "prediction": "positive", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-16T12:21:44.376397", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.61}
+{"timestamp": "2026-06-16T12:21:44.376397", "text": "i loved it - i impressive this film", "prediction": "positive", "true_label": "positive", "confidence": 0.7}
+{"timestamp": "2026-06-16T12:21:44.376397", "text": "i hated it - absolutely awful performance", "prediction": "positive", "true_label": "negative", "confidence": 0.88}
+{"timestamp": "2026-06-16T12:21:44.376397", "text": "a fantastic movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.65}
+{"timestamp": "2026-06-16T12:21:44.378403", "text": "i disliked it - i mediocre this film", "prediction": "positive", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-16T12:21:44.378403", "text": "acting was brilliant and engaging", "prediction": "negative", "true_label": "positive", "confidence": 0.59}
+{"timestamp": "2026-06-17T14:38:56.823818", "text": "i excellent this film", "prediction": "negative", "true_label": "positive", "confidence": 0.6}
+{"timestamp": "2026-06-17T14:38:56.823818", "text": "i disliked it - absolutely awful performance", "prediction": "negative", "true_label": "negative", "confidence": 0.96}
+{"timestamp": "2026-06-17T14:38:56.825827", "text": "acting was fantastic and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.72}
+{"timestamp": "2026-06-17T14:38:56.825827", "text": "i regretted it - the story was awful", "prediction": "negative", "true_label": "negative", "confidence": 0.73}
+{"timestamp": "2026-06-17T14:38:56.825827", "text": "i loved it - the story was impressive", "prediction": "negative", "true_label": "positive", "confidence": 0.7}
+{"timestamp": "2026-06-17T14:38:56.825827", "text": "i weak this film", "prediction": "negative", "true_label": "negative", "confidence": 0.56}
+{"timestamp": "2026-06-17T14:38:56.825827", "text": "this movie was awful", "prediction": "negative", "true_label": "negative", "confidence": 0.87}
+{"timestamp": "2026-06-17T14:38:56.827834", "text": "i bad this film", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-17T14:38:56.827834", "text": "i awful this film", "prediction": "negative", "true_label": "negative", "confidence": 0.87}
+{"timestamp": "2026-06-17T14:38:56.827834", "text": "a amazing movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.94}
+{"timestamp": "2026-06-17T14:38:56.827834", "text": "acting was impressive and engaging", "prediction": "negative", "true_label": "positive", "confidence": 0.93}
+{"timestamp": "2026-06-17T14:38:56.827834", "text": "one of the most great films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.55}
+{"timestamp": "2026-06-17T14:38:56.827834", "text": "i enjoyed it - this movie was fantastic", "prediction": "positive", "true_label": "positive", "confidence": 0.97}
+{"timestamp": "2026-06-17T14:38:56.829842", "text": "acting was brilliant and engaging", "prediction": "negative", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-17T14:38:56.829842", "text": "this movie was impressive", "prediction": "positive", "true_label": "positive", "confidence": 0.61}
+{"timestamp": "2026-06-17T14:38:56.829842", "text": "i liked it - acting was amazing and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.87}
+{"timestamp": "2026-06-17T14:38:56.829842", "text": "i admired it - i outstanding this film", "prediction": "negative", "true_label": "positive", "confidence": 0.66}
+{"timestamp": "2026-06-17T14:38:56.829842", "text": "this movie was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.86}
+{"timestamp": "2026-06-17T14:38:56.829842", "text": "i disliked it - one of the most weak films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.89}
+{"timestamp": "2026-06-17T14:38:56.829842", "text": "this movie was mediocre", "prediction": "negative", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-17T14:38:56.829842", "text": "acting was disappointing and engaging", "prediction": "positive", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i disliked it - it was a boring experience", "prediction": "negative", "true_label": "negative", "confidence": 0.87}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i loved it - acting was excellent and engaging", "prediction": "negative", "true_label": "positive", "confidence": 0.95}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "this movie was bad", "prediction": "negative", "true_label": "negative", "confidence": 0.97}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "this movie was boring", "prediction": "negative", "true_label": "negative", "confidence": 0.83}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i hated it - one of the most mediocre films i have seen", "prediction": "positive", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "a mediocre movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.93}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "acting was poor and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.6}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i regretted it - this movie was mediocre", "prediction": "negative", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i loved it - the story was fantastic", "prediction": "positive", "true_label": "positive", "confidence": 0.88}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "this movie was brilliant", "prediction": "positive", "true_label": "positive", "confidence": 0.91}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "absolutely excellent performance", "prediction": "positive", "true_label": "positive", "confidence": 0.66}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i weak this film", "prediction": "negative", "true_label": "negative", "confidence": 0.56}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "it was a bad experience", "prediction": "negative", "true_label": "negative", "confidence": 0.75}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "the story was disappointing", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "a impressive movie overall", "prediction": "negative", "true_label": "positive", "confidence": 0.95}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i admired it - one of the most amazing films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.93}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "one of the most disappointing films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i loved it - the story was brilliant", "prediction": "positive", "true_label": "positive", "confidence": 0.87}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i disliked it - it was a awful experience", "prediction": "negative", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "absolutely bad performance", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "acting was impressive and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.93}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i boring this film", "prediction": "positive", "true_label": "negative", "confidence": 0.87}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i outstanding this film", "prediction": "positive", "true_label": "positive", "confidence": 0.81}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i liked it - absolutely impressive performance", "prediction": "positive", "true_label": "positive", "confidence": 0.74}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "absolutely bad performance", "prediction": "negative", "true_label": "negative", "confidence": 0.93}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i hated it - a terrible movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i enjoyed it - one of the most amazing films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i liked it - a excellent movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.65}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "i disliked it - one of the most disappointing films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.9}
+{"timestamp": "2026-06-17T14:38:56.831852", "text": "acting was terrible and engaging", "prediction": "positive", "true_label": "negative", "confidence": 0.77}
+{"timestamp": "2026-06-17T14:38:56.838975", "text": "one of the most disappointing films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.56}
+{"timestamp": "2026-06-17T14:38:56.838975", "text": "absolutely terrible performance", "prediction": "positive", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-17T14:38:56.838975", "text": "i hated it - it was a poor experience", "prediction": "negative", "true_label": "negative", "confidence": 0.94}
+{"timestamp": "2026-06-17T14:38:56.838975", "text": "i regretted it - acting was disappointing and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.65}
+{"timestamp": "2026-06-17T14:38:56.838975", "text": "i boring this film", "prediction": "negative", "true_label": "negative", "confidence": 0.59}
+{"timestamp": "2026-06-17T14:38:56.838975", "text": "this movie was brilliant", "prediction": "negative", "true_label": "positive", "confidence": 0.9}
+{"timestamp": "2026-06-17T14:38:56.838975", "text": "acting was fantastic and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.66}
+{"timestamp": "2026-06-17T14:38:56.838975", "text": "absolutely great performance", "prediction": "positive", "true_label": "positive", "confidence": 0.97}
+{"timestamp": "2026-06-17T14:38:56.838975", "text": "a great movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.96}
+{"timestamp": "2026-06-17T14:38:56.838975", "text": "acting was poor and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-17T14:38:56.838975", "text": "i outstanding this film", "prediction": "positive", "true_label": "positive", "confidence": 0.97}
+{"timestamp": "2026-06-17T14:38:56.841854", "text": "acting was wonderful and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.7}
+{"timestamp": "2026-06-17T14:38:56.841854", "text": "i enjoyed it - this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.58}
+{"timestamp": "2026-06-17T14:38:56.841854", "text": "i hated it - it was a terrible experience", "prediction": "negative", "true_label": "negative", "confidence": 0.71}
+{"timestamp": "2026-06-17T14:38:56.841854", "text": "i hated it - acting was awful and engaging", "prediction": "positive", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-17T14:38:56.841854", "text": "the story was disappointing", "prediction": "positive", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-17T14:38:56.841854", "text": "i regretted it - this movie was terrible", "prediction": "negative", "true_label": "negative", "confidence": 0.83}
+{"timestamp": "2026-06-17T14:38:56.841854", "text": "one of the most fantastic films i have seen", "prediction": "negative", "true_label": "positive", "confidence": 0.57}
+{"timestamp": "2026-06-17T14:38:56.841854", "text": "it was a outstanding experience", "prediction": "positive", "true_label": "positive", "confidence": 0.87}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i terrible this film", "prediction": "negative", "true_label": "negative", "confidence": 0.79}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "a boring movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i liked it - acting was great and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.6}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "absolutely fantastic performance", "prediction": "negative", "true_label": "positive", "confidence": 0.56}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i disliked it - the story was bad", "prediction": "negative", "true_label": "negative", "confidence": 0.67}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i disliked it - it was a boring experience", "prediction": "negative", "true_label": "negative", "confidence": 0.86}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "this movie was great", "prediction": "positive", "true_label": "positive", "confidence": 0.9}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i regretted it - this movie was disappointing", "prediction": "negative", "true_label": "negative", "confidence": 0.71}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "it was a fantastic experience", "prediction": "positive", "true_label": "positive", "confidence": 0.76}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "this movie was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.62}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "acting was brilliant and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.91}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "it was a brilliant experience", "prediction": "positive", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "absolutely great performance", "prediction": "positive", "true_label": "positive", "confidence": 0.87}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i enjoyed it - this movie was impressive", "prediction": "positive", "true_label": "positive", "confidence": 0.9}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i hated it - it was a bad experience", "prediction": "negative", "true_label": "negative", "confidence": 0.83}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "a weak movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.79}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "it was a mediocre experience", "prediction": "positive", "true_label": "negative", "confidence": 0.88}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "it was a outstanding experience", "prediction": "positive", "true_label": "positive", "confidence": 0.56}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i disliked it - the story was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i liked it - it was a outstanding experience", "prediction": "positive", "true_label": "positive", "confidence": 0.75}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i liked it - this movie was great", "prediction": "positive", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i disliked it - a bad movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i regretted it - it was a boring experience", "prediction": "negative", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i disliked it - this movie was mediocre", "prediction": "negative", "true_label": "negative", "confidence": 0.87}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i hated it - this movie was mediocre", "prediction": "positive", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i disliked it - a weak movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.67}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i hated it - a disappointing movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "the story was impressive", "prediction": "positive", "true_label": "positive", "confidence": 0.86}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "absolutely fantastic performance", "prediction": "positive", "true_label": "positive", "confidence": 0.86}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i regretted it - it was a terrible experience", "prediction": "negative", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i hated it - it was a terrible experience", "prediction": "negative", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "it was a weak experience", "prediction": "negative", "true_label": "negative", "confidence": 0.75}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i liked it - one of the most brilliant films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.96}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "acting was impressive and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.81}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i disliked it - it was a terrible experience", "prediction": "negative", "true_label": "negative", "confidence": 0.63}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "one of the most disappointing films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.58}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "acting was great and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.7}
+{"timestamp": "2026-06-17T14:38:56.843671", "text": "i disliked it - acting was awful and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.97}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "absolutely terrible performance", "prediction": "negative", "true_label": "negative", "confidence": 0.56}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "a disappointing movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i regretted it - the story was disappointing", "prediction": "positive", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "one of the most bad films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.97}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "it was a impressive experience", "prediction": "positive", "true_label": "positive", "confidence": 0.69}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i hated it - i poor this film", "prediction": "positive", "true_label": "negative", "confidence": 0.59}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "acting was amazing and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.64}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i disliked it - i poor this film", "prediction": "negative", "true_label": "negative", "confidence": 0.56}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "absolutely great performance", "prediction": "positive", "true_label": "positive", "confidence": 0.55}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i enjoyed it - absolutely outstanding performance", "prediction": "positive", "true_label": "positive", "confidence": 0.8}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "one of the most terrible films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.57}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "one of the most outstanding films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.81}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i loved it - absolutely impressive performance", "prediction": "negative", "true_label": "positive", "confidence": 0.98}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i admired it - i impressive this film", "prediction": "negative", "true_label": "positive", "confidence": 0.7}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i enjoyed it - this movie was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.59}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i regretted it - i bad this film", "prediction": "negative", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i liked it - it was a wonderful experience", "prediction": "positive", "true_label": "positive", "confidence": 0.64}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "this movie was great", "prediction": "negative", "true_label": "positive", "confidence": 0.59}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "one of the most outstanding films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.63}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i enjoyed it - the story was wonderful", "prediction": "positive", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i hated it - one of the most mediocre films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.67}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i disliked it - absolutely awful performance", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "acting was wonderful and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.81}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i liked it - i excellent this film", "prediction": "positive", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i loved it - one of the most great films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "the story was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.55}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "it was a wonderful experience", "prediction": "positive", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "it was a weak experience", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i disliked it - this movie was terrible", "prediction": "positive", "true_label": "negative", "confidence": 0.57}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i regretted it - this movie was bad", "prediction": "positive", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i loved it - acting was excellent and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.57}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i disliked it - a weak movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.61}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "i enjoyed it - i fantastic this film", "prediction": "positive", "true_label": "positive", "confidence": 0.98}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "this movie was brilliant", "prediction": "positive", "true_label": "positive", "confidence": 0.95}
+{"timestamp": "2026-06-17T14:38:56.852172", "text": "this movie was boring", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-17T14:38:56.859486", "text": "i hated it - absolutely awful performance", "prediction": "negative", "true_label": "negative", "confidence": 0.71}
+{"timestamp": "2026-06-17T14:38:56.859486", "text": "i enjoyed it - i excellent this film", "prediction": "positive", "true_label": "positive", "confidence": 0.72}
+{"timestamp": "2026-06-17T14:38:56.859486", "text": "i admired it - a fantastic movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-17T14:38:56.859486", "text": "i admired it - it was a impressive experience", "prediction": "positive", "true_label": "positive", "confidence": 0.6}
+{"timestamp": "2026-06-17T14:38:56.859486", "text": "this movie was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.57}
+{"timestamp": "2026-06-17T14:38:56.859486", "text": "i loved it - a fantastic movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.77}
+{"timestamp": "2026-06-17T14:38:56.859486", "text": "i disliked it - one of the most awful films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-17T14:38:56.859486", "text": "i hated it - it was a boring experience", "prediction": "negative", "true_label": "negative", "confidence": 0.98}
+{"timestamp": "2026-06-17T14:38:56.859486", "text": "it was a weak experience", "prediction": "positive", "true_label": "negative", "confidence": 0.6}
+{"timestamp": "2026-06-17T14:38:56.862070", "text": "the story was terrible", "prediction": "negative", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-17T14:38:56.862070", "text": "i disliked it - it was a mediocre experience", "prediction": "negative", "true_label": "negative", "confidence": 0.88}
+{"timestamp": "2026-06-17T14:38:56.862070", "text": "i hated it - i awful this film", "prediction": "positive", "true_label": "negative", "confidence": 0.8}
+{"timestamp": "2026-06-17T14:38:56.862070", "text": "absolutely fantastic performance", "prediction": "positive", "true_label": "positive", "confidence": 0.94}
+{"timestamp": "2026-06-17T14:38:56.862070", "text": "i liked it - a amazing movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.66}
+{"timestamp": "2026-06-17T14:38:56.862070", "text": "i liked it - a impressive movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-17T14:38:56.862070", "text": "i hated it - this movie was mediocre", "prediction": "negative", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-17T14:38:56.862070", "text": "i liked it - this movie was wonderful", "prediction": "positive", "true_label": "positive", "confidence": 0.64}
+{"timestamp": "2026-06-17T14:38:56.862070", "text": "i loved it - one of the most wonderful films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.88}
+{"timestamp": "2026-06-17T14:38:56.862070", "text": "i enjoyed it - the story was excellent", "prediction": "positive", "true_label": "positive", "confidence": 0.69}
+{"timestamp": "2026-06-17T14:38:56.862070", "text": "it was a fantastic experience", "prediction": "positive", "true_label": "positive", "confidence": 0.75}
+{"timestamp": "2026-06-17T14:38:56.862070", "text": "i weak this film", "prediction": "positive", "true_label": "negative", "confidence": 0.63}
+{"timestamp": "2026-06-17T14:38:56.865426", "text": "one of the most poor films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-17T14:38:56.865426", "text": "one of the most awful films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.68}
+{"timestamp": "2026-06-17T14:38:56.865426", "text": "this movie was impressive", "prediction": "positive", "true_label": "positive", "confidence": 0.98}
+{"timestamp": "2026-06-17T14:38:56.865426", "text": "i enjoyed it - one of the most impressive films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.58}
+{"timestamp": "2026-06-17T14:38:56.865426", "text": "the story was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.59}
+{"timestamp": "2026-06-17T14:38:56.865426", "text": "i admired it - one of the most outstanding films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.56}
+{"timestamp": "2026-06-17T14:38:56.865426", "text": "this movie was terrible", "prediction": "positive", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-17T14:38:56.865426", "text": "i disliked it - this movie was disappointing", "prediction": "positive", "true_label": "negative", "confidence": 0.97}
+{"timestamp": "2026-06-17T14:38:56.867452", "text": "i hated it - it was a poor experience", "prediction": "negative", "true_label": "negative", "confidence": 0.95}
+{"timestamp": "2026-06-17T14:38:56.867452", "text": "i admired it - this movie was brilliant", "prediction": "negative", "true_label": "positive", "confidence": 0.6}
+{"timestamp": "2026-06-17T14:38:56.867452", "text": "i admired it - absolutely excellent performance", "prediction": "positive", "true_label": "positive", "confidence": 0.69}
+{"timestamp": "2026-06-17T14:38:56.867452", "text": "i disliked it - absolutely mediocre performance", "prediction": "negative", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-17T14:38:56.867452", "text": "i regretted it - acting was weak and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.75}
+{"timestamp": "2026-06-17T14:38:56.867452", "text": "a bad movie overall", "prediction": "positive", "true_label": "negative", "confidence": 0.89}
+{"timestamp": "2026-06-17T14:38:56.867452", "text": "i regretted it - absolutely mediocre performance", "prediction": "negative", "true_label": "negative", "confidence": 0.85}
+{"timestamp": "2026-06-17T14:38:56.867452", "text": "i liked it - the story was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.57}
+{"timestamp": "2026-06-17T14:38:56.867452", "text": "i regretted it - acting was poor and engaging", "prediction": "positive", "true_label": "negative", "confidence": 0.65}
+{"timestamp": "2026-06-17T14:38:56.869459", "text": "a weak movie overall", "prediction": "positive", "true_label": "negative", "confidence": 0.56}
+{"timestamp": "2026-06-17T14:38:56.869459", "text": "i hated it - i bad this film", "prediction": "negative", "true_label": "negative", "confidence": 0.65}
+{"timestamp": "2026-06-17T14:38:56.869459", "text": "i regretted it - i awful this film", "prediction": "negative", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-17T14:38:56.869459", "text": "i disliked it - one of the most terrible films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.96}
+{"timestamp": "2026-06-17T14:38:56.869459", "text": "i regretted it - acting was terrible and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-17T14:38:56.869459", "text": "this movie was excellent", "prediction": "negative", "true_label": "positive", "confidence": 0.66}
+{"timestamp": "2026-06-17T14:38:56.869459", "text": "i regretted it - absolutely awful performance", "prediction": "negative", "true_label": "negative", "confidence": 0.96}
+{"timestamp": "2026-06-17T14:38:56.869459", "text": "i admired it - a impressive movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.88}
+{"timestamp": "2026-06-17T14:38:56.869459", "text": "i loved it - a fantastic movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.85}
+{"timestamp": "2026-06-17T14:38:56.871465", "text": "acting was poor and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.76}
+{"timestamp": "2026-06-17T14:38:56.871465", "text": "i great this film", "prediction": "positive", "true_label": "positive", "confidence": 0.76}
+{"timestamp": "2026-06-17T14:38:56.871973", "text": "i loved it - a brilliant movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.93}
+{"timestamp": "2026-06-17T14:38:56.871973", "text": "i regretted it - it was a boring experience", "prediction": "negative", "true_label": "negative", "confidence": 0.59}
+{"timestamp": "2026-06-17T14:38:56.871973", "text": "a awful movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.55}
+{"timestamp": "2026-06-17T14:38:56.871973", "text": "this movie was awful", "prediction": "negative", "true_label": "negative", "confidence": 0.61}
+{"timestamp": "2026-06-17T14:38:56.871973", "text": "it was a mediocre experience", "prediction": "negative", "true_label": "negative", "confidence": 0.67}
+{"timestamp": "2026-06-17T14:38:56.871973", "text": "a mediocre movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.88}
+{"timestamp": "2026-06-17T14:38:56.871973", "text": "i excellent this film", "prediction": "positive", "true_label": "positive", "confidence": 0.95}
+{"timestamp": "2026-06-17T14:38:56.871973", "text": "i loved it - one of the most amazing films i have seen", "prediction": "negative", "true_label": "positive", "confidence": 0.82}
+{"timestamp": "2026-06-17T14:38:56.871973", "text": "i hated it - absolutely awful performance", "prediction": "negative", "true_label": "negative", "confidence": 0.59}
+{"timestamp": "2026-06-17T14:38:56.874003", "text": "this movie was disappointing", "prediction": "positive", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-17T14:38:56.874003", "text": "absolutely fantastic performance", "prediction": "negative", "true_label": "positive", "confidence": 0.79}
+{"timestamp": "2026-06-17T14:38:56.874003", "text": "acting was weak and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-17T14:38:56.874003", "text": "one of the most poor films i have seen", "prediction": "positive", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-17T14:38:56.874003", "text": "i enjoyed it - a great movie overall", "prediction": "negative", "true_label": "positive", "confidence": 0.64}
+{"timestamp": "2026-06-17T14:38:56.874003", "text": "the story was mediocre", "prediction": "negative", "true_label": "negative", "confidence": 0.88}
+{"timestamp": "2026-06-17T14:38:56.874003", "text": "i loved it - i brilliant this film", "prediction": "negative", "true_label": "positive", "confidence": 0.76}
+{"timestamp": "2026-06-17T14:38:56.875510", "text": "i disliked it - this movie was bad", "prediction": "negative", "true_label": "negative", "confidence": 0.6}
+{"timestamp": "2026-06-17T14:38:56.875510", "text": "i disliked it - absolutely weak performance", "prediction": "negative", "true_label": "negative", "confidence": 0.73}
+{"timestamp": "2026-06-17T14:38:56.875510", "text": "i hated it - acting was disappointing and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.92}
+{"timestamp": "2026-06-17T14:38:56.875510", "text": "i hated it - the story was disappointing", "prediction": "positive", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-17T14:38:56.875510", "text": "it was a excellent experience", "prediction": "positive", "true_label": "positive", "confidence": 0.77}
+{"timestamp": "2026-06-17T14:38:56.875510", "text": "the story was terrible", "prediction": "negative", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-17T14:38:56.875510", "text": "acting was fantastic and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-17T14:38:56.875510", "text": "i regretted it - one of the most poor films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.65}
+{"timestamp": "2026-06-17T14:38:56.877520", "text": "this movie was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.71}
+{"timestamp": "2026-06-17T14:38:56.877520", "text": "the story was awful", "prediction": "negative", "true_label": "negative", "confidence": 0.95}
+{"timestamp": "2026-06-17T14:38:56.877520", "text": "i regretted it - i boring this film", "prediction": "positive", "true_label": "negative", "confidence": 0.71}
+{"timestamp": "2026-06-17T14:38:56.877520", "text": "i disliked it - it was a bad experience", "prediction": "negative", "true_label": "negative", "confidence": 0.86}
+{"timestamp": "2026-06-17T14:38:56.877520", "text": "i admired it - absolutely brilliant performance", "prediction": "positive", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-17T14:38:56.877520", "text": "i disliked it - i disappointing this film", "prediction": "positive", "true_label": "negative", "confidence": 0.73}
+{"timestamp": "2026-06-17T14:38:56.877520", "text": "this movie was terrible", "prediction": "negative", "true_label": "negative", "confidence": 0.72}
+{"timestamp": "2026-06-17T14:38:56.877520", "text": "absolutely wonderful performance", "prediction": "positive", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-17T14:38:56.877520", "text": "this movie was boring", "prediction": "negative", "true_label": "negative", "confidence": 0.67}
+{"timestamp": "2026-06-17T14:38:56.879527", "text": "it was a bad experience", "prediction": "negative", "true_label": "negative", "confidence": 0.65}
+{"timestamp": "2026-06-17T14:38:56.879527", "text": "absolutely terrible performance", "prediction": "negative", "true_label": "negative", "confidence": 0.65}
+{"timestamp": "2026-06-17T14:38:56.879527", "text": "i regretted it - absolutely boring performance", "prediction": "negative", "true_label": "negative", "confidence": 0.87}
+{"timestamp": "2026-06-17T14:38:56.879527", "text": "i disliked it - it was a poor experience", "prediction": "negative", "true_label": "negative", "confidence": 0.82}
+{"timestamp": "2026-06-17T14:38:56.879527", "text": "i enjoyed it - one of the most impressive films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.65}
+{"timestamp": "2026-06-17T14:38:56.879527", "text": "one of the most bad films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-17T14:38:56.879527", "text": "i disliked it - the story was weak", "prediction": "negative", "true_label": "negative", "confidence": 0.96}
+{"timestamp": "2026-06-17T14:38:56.879527", "text": "it was a great experience", "prediction": "positive", "true_label": "positive", "confidence": 0.95}
+{"timestamp": "2026-06-17T14:38:56.879527", "text": "i brilliant this film", "prediction": "positive", "true_label": "positive", "confidence": 0.68}
+{"timestamp": "2026-06-17T14:38:56.881535", "text": "i liked it - acting was fantastic and engaging", "prediction": "negative", "true_label": "positive", "confidence": 0.71}
+{"timestamp": "2026-06-17T14:38:56.881535", "text": "i enjoyed it - absolutely brilliant performance", "prediction": "positive", "true_label": "positive", "confidence": 0.99}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i regretted it - the story was boring", "prediction": "negative", "true_label": "negative", "confidence": 0.77}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "one of the most disappointing films i have seen", "prediction": "negative", "true_label": "negative", "confidence": 0.69}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i enjoyed it - a wonderful movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.65}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i hated it - absolutely boring performance", "prediction": "negative", "true_label": "negative", "confidence": 0.7}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i enjoyed it - the story was great", "prediction": "positive", "true_label": "positive", "confidence": 0.58}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "acting was wonderful and engaging", "prediction": "negative", "true_label": "positive", "confidence": 0.56}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "this movie was outstanding", "prediction": "positive", "true_label": "positive", "confidence": 0.95}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "acting was poor and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.64}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "this movie was brilliant", "prediction": "negative", "true_label": "positive", "confidence": 0.6}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i regretted it - a bad movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.86}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i admired it - i amazing this film", "prediction": "positive", "true_label": "positive", "confidence": 0.92}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i disliked it - absolutely poor performance", "prediction": "negative", "true_label": "negative", "confidence": 0.6}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "the story was amazing", "prediction": "positive", "true_label": "positive", "confidence": 0.59}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "a terrible movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.6}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "it was a amazing experience", "prediction": "positive", "true_label": "positive", "confidence": 0.82}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i disliked it - this movie was disappointing", "prediction": "positive", "true_label": "negative", "confidence": 0.88}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i disliked it - this movie was disappointing", "prediction": "negative", "true_label": "negative", "confidence": 0.93}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "absolutely terrible performance", "prediction": "negative", "true_label": "negative", "confidence": 0.87}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i disliked it - it was a bad experience", "prediction": "negative", "true_label": "negative", "confidence": 0.95}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "it was a excellent experience", "prediction": "positive", "true_label": "positive", "confidence": 0.91}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i regretted it - it was a terrible experience", "prediction": "negative", "true_label": "negative", "confidence": 0.71}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "absolutely outstanding performance", "prediction": "positive", "true_label": "positive", "confidence": 0.92}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "one of the most outstanding films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.56}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i admired it - one of the most excellent films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.84}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i great this film", "prediction": "positive", "true_label": "positive", "confidence": 0.78}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i liked it - absolutely great performance", "prediction": "positive", "true_label": "positive", "confidence": 0.59}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i hated it - i poor this film", "prediction": "negative", "true_label": "negative", "confidence": 0.59}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "the story was brilliant", "prediction": "positive", "true_label": "positive", "confidence": 0.72}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i loved it - acting was fantastic and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.89}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "it was a terrible experience", "prediction": "negative", "true_label": "negative", "confidence": 0.91}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i disliked it - i weak this film", "prediction": "positive", "true_label": "negative", "confidence": 0.78}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "absolutely brilliant performance", "prediction": "positive", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "it was a bad experience", "prediction": "negative", "true_label": "negative", "confidence": 0.66}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i enjoyed it - absolutely great performance", "prediction": "negative", "true_label": "positive", "confidence": 0.61}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i weak this film", "prediction": "positive", "true_label": "negative", "confidence": 0.62}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "i liked it - acting was amazing and engaging", "prediction": "positive", "true_label": "positive", "confidence": 0.78}
+{"timestamp": "2026-06-17T14:38:56.882041", "text": "absolutely awful performance", "prediction": "positive", "true_label": "negative", "confidence": 0.74}
+{"timestamp": "2026-06-17T14:38:56.891216", "text": "it was a amazing experience", "prediction": "positive", "true_label": "positive", "confidence": 0.95}
+{"timestamp": "2026-06-17T14:38:56.891216", "text": "i hated it - acting was weak and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.76}
+{"timestamp": "2026-06-17T14:38:56.891216", "text": "i disliked it - it was a weak experience", "prediction": "negative", "true_label": "negative", "confidence": 0.81}
+{"timestamp": "2026-06-17T14:38:56.891216", "text": "i enjoyed it - the story was fantastic", "prediction": "positive", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-17T14:38:56.892222", "text": "acting was bad and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.93}
+{"timestamp": "2026-06-17T14:38:56.892222", "text": "absolutely wonderful performance", "prediction": "positive", "true_label": "positive", "confidence": 0.76}
+{"timestamp": "2026-06-17T14:38:56.892222", "text": "i admired it - one of the most brilliant films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.77}
+{"timestamp": "2026-06-17T14:38:56.892222", "text": "the story was brilliant", "prediction": "positive", "true_label": "positive", "confidence": 0.71}
+{"timestamp": "2026-06-17T14:38:56.892222", "text": "the story was poor", "prediction": "negative", "true_label": "negative", "confidence": 0.95}
+{"timestamp": "2026-06-17T14:38:56.892222", "text": "i loved it - a brilliant movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.94}
+{"timestamp": "2026-06-17T14:38:56.892222", "text": "a wonderful movie overall", "prediction": "positive", "true_label": "positive", "confidence": 0.69}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "a disappointing movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.56}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "i liked it - absolutely impressive performance", "prediction": "positive", "true_label": "positive", "confidence": 0.62}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "a terrible movie overall", "prediction": "negative", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "i admired it - the story was wonderful", "prediction": "positive", "true_label": "positive", "confidence": 0.83}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "i regretted it - this movie was boring", "prediction": "negative", "true_label": "negative", "confidence": 0.84}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "i loved it - the story was fantastic", "prediction": "positive", "true_label": "positive", "confidence": 0.67}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "one of the most mediocre films i have seen", "prediction": "positive", "true_label": "negative", "confidence": 0.61}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "i fantastic this film", "prediction": "positive", "true_label": "positive", "confidence": 0.88}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "i hated it - this movie was bad", "prediction": "negative", "true_label": "negative", "confidence": 0.77}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "i loved it - one of the most fantastic films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.72}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "i loved it - one of the most great films i have seen", "prediction": "positive", "true_label": "positive", "confidence": 0.86}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "this movie was bad", "prediction": "negative", "true_label": "negative", "confidence": 0.88}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "i enjoyed it - i great this film", "prediction": "positive", "true_label": "positive", "confidence": 0.73}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "i disliked it - i disappointing this film", "prediction": "negative", "true_label": "negative", "confidence": 0.98}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "i admired it - i wonderful this film", "prediction": "positive", "true_label": "positive", "confidence": 0.96}
+{"timestamp": "2026-06-17T14:38:56.893740", "text": "i disliked it - acting was awful and engaging", "prediction": "negative", "true_label": "negative", "confidence": 0.98}
