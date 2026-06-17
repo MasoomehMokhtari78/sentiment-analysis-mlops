@@ -4,7 +4,6 @@ Implements ModelInterface for interchangeability.
 """
 from typing import List, Dict, Any, Union
 import pandas as pd
-import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
@@ -75,6 +74,8 @@ class BaselineModel(BaseModel):
         y_train = list(y_train)
         
         self.model.fit(X_train, y_train)
+        classifier = self.model.named_steps["classifier"]
+        self.classes_ = list(classifier.classes_)
         self.is_trained = True
         
         logger.info("Baseline model training complete")

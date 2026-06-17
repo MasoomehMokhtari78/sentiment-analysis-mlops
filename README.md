@@ -9,6 +9,8 @@ This repository contains a robust, reproducible sentiment analysis pipeline. The
 | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | End-to-end system flowcharts and deployment topology |
 | [docs/TECHNOLOGIES.md](docs/TECHNOLOGIES.md) | Technologies used and where they appear in the project |
 | [docs/WEEK3_INTEGRATION.md](docs/WEEK3_INTEGRATION.md) | Week 3 serving, optimization, and Docker setup |
+| [docs/WEEK4_INTEGRATION.md](docs/WEEK4_INTEGRATION.md) | Week 4 CI/CD and Docker-based testing (implemented so far) |
+| [docs/WEEK4_TODO.md](docs/WEEK4_TODO.md) | Phase 4 full plan — monitoring & drift (pending) |
 
 ---
 
