@@ -7,9 +7,6 @@ from src.monitoring.feedback import load_feedback
 # 1. OFFLINE EVALUATION (IMDB)
 # -----------------------------
 def evaluate_on_imdb(model, test_path):
-    import pandas as pd
-    from sklearn.metrics import accuracy_score
-
     df = pd.read_csv(test_path)
 
     # -------------------------
